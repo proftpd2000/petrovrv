@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta name="title" content="Способы оплаты товара">
+<meta name="description" content="Способы оплаты товара ">
+<meta name="keywords" content="">
+<meta name="robots" content="index, follow">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="language" content="Russian">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Способы оплаты товара.</title>
+    
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/style_tablet.css">
+<link rel="stylesheet" href="css/style_mobile.css">
+
+<script src="js/jquery-3.6.0.min.js"></script>
+<script src="js/scripts.js"></script>
+<script src="js/main.js"></script>
+</head>
+<body>
+    <header>
+		<section class="img">		</section>
+	
+        <section >
+            <p class="container">Интернет-магазин средств радиосвязи <b>"RK75" </b>..<span>  8(909)-911-94-94 </span> <span><a href="mailto:proftpd@mail.ru?subject=Вопрос по товару">  proftpd@mail.ru</a> </span> </p>
+        </section>
+        
+        <section class="mainhead">
+            <div class="container">
+                <a href="index.html" class="icon logo" title="Вернутся на главную"></a>
+                <div class="searschform" title="Поле для ввода искомого текста"></div>
+                <a href="#" class="icon login"></a>
+                <a href="order.html" class="icon order"></a>
+            </div>
+        </section>
+        
+        <section>
+            <nav class="topmenu container">
+                <a href="index.html" class="active" title="Вернутся на главную страницу">Главная</a>
+                <a href="catalog.html" title="Перейти в каталог товаров">Каталог</a>
+                <a href="order.html" title="Корзина">Корзина</a>
+                <a href="product.html" title="Доставка товара">Доставка</a>
+                <a href="paypal.html" title="Способы оплаты товара">Оплата</a>
+                <a href="return.html" title="Гарантия и  возврат товара">Возврат</a>
+                <a href="contacts.html" title="Контакная информация">Контакты</a>
+            </nav>
+        </section>
+    </header>
+    
+    <main>
+       
+<!--    Быстрый доступ к каталогу товаров -->
+        <section class="paypal_catalog">
+		            <div class="container">
+							<div class="card_1">
+									<h3>Сбербанк</h3>
+									<div class="img"></div>
+									<p>
+										<li><b>Петров Роман Викторович</b></li>
+										<li><b>Номер счёта:</b>  4081 7810 2381 8073 1733</li>
+										<li><b>Банк получателя:</b> ПАО СБЕРБАНК</li>
+										<li><b>БИК:</b> 044525225</li>
+										<li><b>ИНН Банка:</b> 7707083893</li>
+										<li><b>КПП Банка:</b> 773643001</li>
+										<li><b>Кор. счёт:</b> 3010 1810 4000 0000 0225</li>
+										<li><span style="color:blue; background-color:yellow">Карта привязана к номеру: 8(905)341-79-19</span></li>
+										
+									</p>
+							</div>
+							
+								<div class="card_2">
+									<h3>ВТБ-24</h3>
+									<div class="img"></div>
+									<p>
+										<li><b>Петров Роман Викторович</b></li>
+										<li><b>Номер счёта:</b>  </li>
+										<li><b>Банк получателя:</b> </li>
+										<li><b>БИК:</b> </li>
+										<li><b>ИНН Банка:</b>  </li>
+										<li><b>КПП Банка:</b>  </li>
+										<li><b>Кор. счёт:</b> </li>
+									</p>
+							</div>
+							
+								<div class="card_3">
+									<h3>Альфа-Банк</h3>
+									<div class="img"></div>
+									<p>
+										<li><b>Петров Роман Викторович</b></li>
+										<li><b>Номер счёта:</b>  4081 7810 6042 6000 0275</li>
+										<li><b>Банк получателя:</b> АО «Альфа-Банк», г. Москва</li>
+										<li><b>БИК:</b>  044525593</li>
+										<li><b>ИНН Банка:</b>  7728168971</li>
+										<li><b>КПП Банка:</b>  770801001</li>
+										<li><b>Кор. счёт:</b> 3010 1810 2000 0000 0593</li>
+									</p>
+							</div>
+							
+							
+							
+							
+					<div>
+					
+				
+				
+            
+        </section>
+    </main>
+    
+    <footer>
+        <section>
+            <div class="container">
+                <nav class="footermenu">
+							<ul>
+                        <h3 title="Каталог антенн для базовых, автомобильных и носимых радиостанций">АНТЕННЫ</h3>
+                        <li><a href="#" target="_blank" title="go to new link">Alan</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Argut</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Baofeng</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">HYT</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Icom</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Kenwood</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Midland</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Megajet</a></li>
+						<li><a href="#" target="_blank" title="go to new link">Motorola</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Yeasu</a></li>
+                        
+                    </ul>                    
+							<ul>
+                        <h3 title="Каталог программаторов для базовых, автомобильных и носимых радиостанций">ПРОГРАММАТОРЫ</h3>
+                        <li><a href="#" target="_blank" title="go to new link">Alan</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Argut</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Baofeng</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">HYT</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Icom</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Kenwood</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Midland</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Megajet</a></li>
+							   <li><a href="#" target="_blank" title="go to new link">Motorola</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Yeasu</a></li>
+                        
+                    </ul>
+                     <ul>
+                        <h3 title="Каталог высокочастотынх антенных разьемов и переходников для   радиостанций">ПЕРЕХОДНИКИ</h3>
+                        <li><a href="#" target="_blank" title="go to new link">BNC</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Motorola</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">PL259</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">SMA</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">SO-231</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">TNC</a></li>
+                        
+                    </ul>
+					    <ul>
+                        <h3 title="Каталог базовых, автомобильных и носимых радиостанций">РАДИОСТАНЦИИ</h3>
+						<li><a href="#" target="_blank" title="go to new link">Автомобильные</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Базовые </a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Носимые</a></li>
+                        
+                      
+                        
+                    </ul>
+                    <!--                   
+                    <ul>
+                        <h3 title="Каталог базовых, автомобильных и носимых радиостанций">РАДИОСТАНЦИИ</h3>
+                        <li><a href="#" target="_blank" title="go to new link">Alan</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Argut</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Baofeng</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">HYT</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Icom</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Kenwood</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Midland</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Megajet</a></li>
+						<li><a href="#" target="_blank" title="go to new link">Motorola</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Yeasu</a></li>
+                        
+                    </ul>
+					-->
+                    <ul>
+                        <h3 title="Каталог тангент для базовых, автомобильных и носимых радиостанций">ТАНГЕНТЫ</h3>
+                        <li><a href="#" target="_blank" title="go to new link">Alan</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Argut</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Baofeng</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">HYT</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Icom</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Kenwood</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Midland</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Megajet</a></li>
+						<li><a href="#" target="_blank" title="go to new link">Motorola</a></li>
+                        <li><a href="#" target="_blank" title="go to new link">Yeasu</a></li>
+                        
+                    </ul>
+                    
+                </nav>
+            </div>
+        </section>
+		
+		<!--  FLOOR 2 -->
+         <section>
+            <div class="container">
+                <nav class="footermenu">
+							<ul>
+                        <h3 title="Каталог антенн для базовых, автомобильных и носимых радиостанций">АНТЕННЫ</h3>
+                        <li><a href="antenns.html" target="_blank" title="Антенны с типом разьема BNC">BNC</a></li>
+                        <li><a href="antenns.html" target="_blank" title="Антенны с типом разьема SMA">SMA</a></li>
+                        <li><a href="antenns.html" target="_blank" title="Антенны для радиостанций Motorola">Motorola</a></li>
+                        <li><a href="antenns.html" target="_blank" title="Антенны для радиостанций Yeasu">Yeasu</a></li>
+                        <hr>
+                        
+                        <li><a href="antenns.html" target="_blank" title="Антенны диапазона 144 МГц и 430 МГц.">144/430 МГц</a></li>
+                        <li><a href="antenns.html" target="_blank" title="Антенны диапазона 900 МГц.">900 МГц</a></li>
+                        <li><a href="antenns.html" target="_blank" title="Антенны диапазона 900 МГц и 1800 МГц.">900/1800 МГц</a></li>
+                        <li><a href="antenns.html" target="_blank" title="Антенны диапазона LTE">LTE</a></li>
+                    </ul>                    
+							<ul>
+                        <h3 title="Каталог программаторов для базовых, автомобильных и носимых радиостанций">ПРОГРАММАТОРЫ</h3>
+                        <li><a href="programmers.html" target="_blank" title="Программаторы для радиостанций Baofeng">Baofeng</a></li>
+                        <li><a href="programmers.html" target="_blank" title="Программаторы для радиостанций Icom">Icom</a></li>
+                        <li><a href="programmers.html" target="_blank" title="Программаторы для радиостанций Kenwood">Kenwood</a></li>
+                       	<li><a href="programmers.html" target="_blank" title="Программаторы для радиостанций Motorola">Motorola</a></li>
+                        <li><a href="programmers.html" target="_blank" title="Программаторы для радиостанций Yeasu">Yeasu</a></li>
+                        
+                    </ul>
+                     <ul>
+                        <h3 title="Каталог высокочастотынх антенных разьемов и переходников для   радиостанций">ПЕРЕХОДНИКИ</h3>
+                        <li><a href="ant_adapter.html" target="_blank" title="Антенные переходники BNC">BNC</a></li>
+                        <li><a href="ant_adapter.html" target="_blank" title="Антенные переходники для радиостанций  Motorola">Motorola</a></li>
+                        <li><a href="ant_adapter.html" target="_blank" title="Антенные переходники PL259">PL259</a></li>
+                        <li><a href="ant_adapter.html" target="_blank" title="Антенные переходники SMA">SMA</a></li>
+                        <li><a href="ant_adapter.html" target="_blank" title="Антенные переходники SO-231">SO-231</a></li>
+                        <li><a href="ant_adapter.html" target="_blank" title="Антенные переходники TNC">TNC</a></li>
+                        
+                    </ul>
+					    <ul>
+                        <h3 title="Каталог базовых, автомобильных и носимых радиостанций">РАДИОСТАНЦИИ</h3>
+								<li><a href="radio_stations.html" target="_blank" title="Автомобилные радиостанции">Автомобильные</a></li>
+                        <li><a href="radio_stations.html" target="_blank" title="Базовые радиостанции">Базовые </a></li>
+                        <li><a href="radio_stations.html" target="_blank" title="Носимые радиотанции ">Носимые</a></li>
+                        
+                      
+                        
+                    </ul>
+                    <ul>
+                        <h3 title="Каталог тангент для базовых, автомобильных и носимых радиостанций">ТАНГЕНТЫ</h3>
+                        <li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Alan">Alan</a></li>
+                        <li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Argut">Argut</a></li>
+                        <li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Baofeng">Baofeng</a></li>
+                        <li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций HYT">HYT</a></li>
+                        <li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Icom">Icom</a></li>
+                        <li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Kenwood">Kenwood</a></li>
+                        <li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Midland">Midland</a></li>
+                        <li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Megajet">Megajet</a></li>
+								<li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Motorola">Motorola</a></li>
+                        <li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Yeasu">Yeasu</a></li>
+                        
+                    </ul>                 
+                    
+				</nav>
+			</div>
+		 </section>		
+	
+		
+        <section>
+            <div class="container">
+                <p class="copy">© @ 2022 PROFTPD2022, Petrov Roman, proftpd@maill.ru.</p>
+            </div>
+        </section>
+    </footer>
+
+</body>
+</html>

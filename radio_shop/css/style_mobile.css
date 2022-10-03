@@ -1,0 +1,66 @@
+/***********************************************************
+                    560PX
+
+АДАПТАЦИЯ КАТАЛОГА ПОУПУЛЯРНЫХ ТОВАРОВ FLEX BOX CARD CONTAINER
+************************************************************/
+
+
+@media screen and (max-width: 560px) {
+
+    /******** Каталог популярных категорий ********/
+    .main_catalog .container  {
+    width: 350px; 
+    flex-direction: column;
+    /* background: linear-gradient(90deg, rgba(237,236,212,1) 8%, rgba(222,220,163,1) 12%, rgba(215,211,114,1) 15%, rgba(138,198,166,1) 37%, rgba(159,226,188,1) 61%, rgba(232,229,159,1) 100%); */
+    justify-content: center;
+   
+    }
+   
+    
+
+/*   SLIDER   */
+.slider .container,
+.slider_desk,
+.slider_block {
+ width: 200px;
+ height: 100px;
+}
+
+.slider_block img {
+ width: 200px;
+ height: 100px;   
+    }    
+    
+.slider_points span {
+	height: 5px;
+	width: 5px;
+    margin: 0 auto;
+	
+}
+.slider button {
+      top: 50px;
+  
+}
+    
+.slider_points {
+    top: 120px;
+    left: 0px;
+    width: 100%;
+    
+}  
+/********  FOOTER MENU **********/
+ footer section {
+ font-size: 14px; 
+ }   
+    
+
+ /********* Блоки меню ********/    
+ footer section div.container nav.footermenu ul {
+margin: 5px auto; /* Отступы сверху и снизу и центрирование блоков меню */
+display: flex;
+flex-direction: column;
+width: 300px;
+    }   
+
+}
+

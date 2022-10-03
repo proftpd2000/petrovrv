@@ -1,0 +1,1135 @@
+@font-face {
+    font-family: 'icomoon';
+    src: url('../fonts/icomoon.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'roboto';
+    src: url('../fonts/Roboto-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* global reset */
+html, body, body div, span, label, h1, h2, h3, h4, h5, h6, p, a, em, font, img, s, small, strike, strong, sub, sup, b, u, i, dl, dt, dd, ol, ul, li, button, form, fieldset, article, aside, footer, header, nav, section, input, textarea {
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+    background: none;
+    list-style: none;
+}
+/* font adjusting hack */
+html * {
+    max-height: 1000000px;
+}
+/* common */
+html {
+    height: 100%;
+}
+body {
+    font: normal 16px/24px 'roboto', Arial, Helvetica, sans-serif;
+    letter-spacing: 0.05em;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.container {
+    /*! width: 90vw; */
+    margin: 0 auto;
+    /*! padding: 7px; */
+    /*! width: 100vw; */
+}
+h1 {
+    font: bold 32px/48px 'roboto';
+    color: red;
+    margin: 0 0 16px;
+    text-transform: uppercase;
+}
+.screen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0,0,0,0.6);
+}
+
+/* icons */
+.icon::before {
+    font-family: 'icomoon';
+    font-size: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+    color: white;
+    text-align: center;
+}
+.icon:hover::before {
+    color: blue;
+}
+.logo::before {
+    content: '\e900';
+}
+.login::before {
+    content: '\e902';
+}
+.order::before {
+    content: '\e901';
+}
+.cat::before {
+    content: '\e903';
+}
+.to_left::before {
+    content: '\e905';
+}
+.to_right::before {
+    content: '\e904';
+}
+
+/****************************************************************
+					HEADER 
+***************************************************************/
+header {
+    flex: none;
+    color: #3c1e14;
+      
+    }
+section.img {
+ background-image: url('../images/icom_1200_200px.jpg');
+ background-repeat: no-repeat;
+ background-size: 100%;
+width: 100vw;  
+height:200px;
+ /*! width: auto; */
+}    
+    
+/********************* Поле ввода *********/
+
+header section.mainhead {
+margin: 10px auto; /* Отсупы у строки поиска */
+}
+
+.searschform {
+    
+    background: #D3D9E9;
+    border-radius: 8px;
+    height: 24px;
+    padding: 6px;
+    opacity: 1;
+    border: 1px solid black;
+   
+    /*  flex: 1 1 auto; */
+}
+
+.mainhead .container {
+    display: flex;
+    gap: 16px;
+    
+}
+.mainhead a {
+    height: 24px;
+    width: 24px;
+    padding: 4px;
+    border: 2px solid white;
+    border-radius: 8px;
+    text-align: center;
+    flex: none;
+    position: relative;
+    text-decoration: none;
+}
+/***************  Заголовок и телефон по ФОТО ************/  
+header  p.container {
+margin-bottom: 10px;
+text-align: center;
+}
+header section div {
+width: 70vw;   
+/* background-color: red;   */  
+} 
+header .container span:nth-child(1):before {
+padding-left: 50px;
+content: "\260E \00A0 "  ; 
+}
+
+header .container span:nth-child(2):before {
+padding-left: 50px;
+content: "\2709 \00A0  ";
+}
+
+/*********  LINKS **********/
+header nav {
+    display: flex;
+    gap: 16px;
+    
+}
+header nav a {
+    height: 24px;
+    border: 2px solid #54525e;
+    background-color: #dfe5e5;
+    border-radius: 8px;
+    flex: none;
+    text-decoration: none;
+    padding: 4px 8px;
+    color: black;
+}
+header a.active,
+header a:hover {
+    color: #d1d1a4;
+    border-color: #28281f;
+    background: #747070;
+}
+header .icon::before {
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    right: 4px;
+    bottom: 4px;
+    color: black;
+}
+/**************************************************
+                    TOP MENU 
+**************************************************/
+header section nav.topmenu {
+display: flex;
+flex-direction: row;
+justify-content: center;
+flex-wrap: wrap;
+align-content: center;
+/*background-color: yellow; */
+}
+
+
+
+/************************************************
+            PAYPAL.HTML
+/***********************************************/ 
+main .paypal_catalog {
+margin-top: 10px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+/* background-color: red; */
+}
+
+.paypal_catalog .container {
+ width: 450px;
+
+}
+
+main .container h3 {
+text-align: center; 
+color: #9d90db;
+text-shadow: 1px 1px 10px #bfa8a8;
+font-size: 1.6em;
+margin: 10px auto;
+/*! background-color: #f7f9ef; */
+/*! width: 100%; */
+}
+
+
+
+
+.paypal_catalog .container .img {
+ width: 200px;
+ height: 100px;
+ background-color: #FFF0AA;  
+ margin: 5px auto; /* Центрирование рисунка */   
+ 
+}
+
+
+
+.paypal_catalog .container div:nth-child(1) .img {
+ background-image: url('../images/img_index/sber_bank.jpg');
+}
+
+
+.paypal_catalog .container div:nth-child(2) .img {
+ background-image: url('../images/img_index/vtb.jpg');
+
+}
+
+
+.paypal_catalog .container div:nth-child(3) .img {
+ background-image: url('../images/img_index/alfa_bank.jpg');
+
+}
+
+.paypal_catalog .container  p{
+border: 1px solid black;
+
+ 
+}
+/************************************************************
+                 MAIN INDEX.HTML
+************************************************************/
+main {
+    flex: 1 1 auto;
+}
+
+/* actions */
+.actionband {
+    background: #f93;
+    color: #fff;
+    text-transform: uppercase;
+}
+.actionband .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.discount,
+.retaimer,
+.sept,
+.num {
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 1;
+}
+.toptext,
+.subnum {
+    font-size: 12px;
+}
+.retaimer {
+    border-left: 1px solid #fff;
+    padding: 24px 0 0 24px;
+    margin-left: 24px;
+    position: relative;
+    text-align: center;
+}
+.toptext {
+    position: absolute;
+    top: 0;
+    left: 24px;
+    right: 0;
+}
+.sept,
+.num {
+    display: inline-block;
+    vertical-align: top;
+}
+.sept {
+    padding: 12px 0;
+}
+.num {
+    padding-bottom: 24px;
+    position: relative;
+    min-width: 50px;
+}
+.subnum {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+
+/***********************************************
+   MAIN PAYPAL.HTML
+**************************************************/
+.paypal_catalog .container {
+ display: flex;
+ flex-direction: row;
+ gap: 10px;
+ justify-content: space-between;
+
+ /*border: 1px solid black; */
+    
+}
+/***********************************************/
+@media screen and (max-width:1130px) {
+ .paypal_catalog .container {
+flex-direction: column;  
+     }
+    footer section div nav.footermenu {
+       /* background-color: teal; */
+       
+    }  
+}
+
+
+
+/*****************************************
+     SLIDER
+*****************************************/
+.slider .container,
+.slider_desk,
+.slider_block {
+    width: 600px;
+    height: 400px;
+}
+.slider .container {
+    padding: 16px 64px;
+    position: relative;
+}
+.slider_desk {
+    overflow: hidden;
+    position: relative;
+    background: #fff;
+    /*! margin: 0 auto; */
+}
+.slider_block {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: -1;
+}
+.slider_block.active {
+    z-index: 1;
+}
+.slider button {
+    position: absolute;
+    height: 32px;
+    width: 32px;
+    border-radius: 8px;
+    text-align: center;
+    top: 269px;
+    z-index: 1;
+    cursor: pointer;
+    font-size: 32px;
+    line-height: 32px;
+}
+.slider .to_left {
+    left: 16px;
+}
+.slider .to_right {
+    right: 16px;
+}
+.slider button::before,
+.slider button::after {
+    color: gray;
+}
+.slider_points {
+    position: absolute;
+    z-index: 1;
+    width: 417px;
+    height: 24px;
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    top: 390px;
+    left: 150px;
+    
+}
+.slider_points span {
+	flex: none;
+    border-radius: 50%;
+	border: 2px solid #173356;
+	height: 22px;
+	width: 22px;
+	cursor: pointer;
+    background-color: #e9e9d4;
+}
+.slider_points span:hover {
+	border-color: #11fa1988;
+}
+.slider_points span.active {
+    background: #fa113c88;
+    
+}
+.slider_points span.active:hover {
+	background: green;
+}
+
+
+/***************************************************
+          INDEX.HTML Каталог популярных  товаров
+****************************************************/
+.main_catalog {
+padding: 20px 0;   
+}
+.main_catalog  .container{
+
+margin-right: : 15px;    
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+flex-wrap: wrap;
+/* background-color: yellow; */
+width: 100%;
+gap: 10px;
+align-content: center; /* FLEX BOX  выравнивание по центру */
+}
+
+.main_catalog h3 {
+
+text-align: center;
+color: blue;  
+text-shadow: 2px 2px 15px black;
+font-size: 20px;
+}
+.main_catalog .container .card {
+flex-direction: column;
+/* border: 1px solid black; */
+width: 300px;   
+}
+
+/*****************   Заголовок *************/
+.main_catalog .container .card .img {
+width: 300px;
+height: 200px;
+background: gray; /* Фон при отсуствии фотографии */
+margin: 3px auto; /* Центрирование рисунка */
+background-repeat: no-repeat;
+ background-size: contain ; /* Вмещаем background в размер окна */
+}
+.main_catalog .container .card .header {
+text-align: center;
+font-size: 20px;
+/*! font: bolder; */ 
+background-color: #a0adcda6;
+margin: 10px 10px;
+padding: 1px 2px;
+border-radius: 10px;
+} 
+.main_catalog .container .card .text {
+color: #c03636;
+margin: 20px 10px;
+height: 80px;
+}
+.main_catalog .container .card .follow_link {
+margin: 20px 10px;  
+border-radius: 10px;
+background-color: #7c9580;
+width: 100px;
+padding: 2px; 10px;
+text-align: center;
+}
+
+.main_catalog .container .card .follow_link a {
+text-decoration: none;
+color: #f8ebeb;    
+}
+.main_catalog .container .card .follow_link:hover {
+background-color: #81d281;
+/*! color: yellow; */
+text-decoration: none;
+}
+
+.main_catalog .container .card:nth-child(4) .img {
+background-image: url('../images/img_index/tang_3.jpg');    
+mix-blend-mode: hard-light;
+}
+
+.main_catalog .container .card:nth-child(3) .img {
+background-image: url('../images/img_index/mobile_tx_5.jpg');    
+mix-blend-mode: multiply;
+}
+
+.main_catalog .container .card:nth-child(1) .img {
+background-image: url('../images/img_index/ant_2.jpg');    
+mix-blend-mode: multiply;
+
+}
+
+
+.main_catalog .container .card:nth-child(2) .img {
+background-image: url('../images/img_index/tnc_bnc.jpg');    
+ mix-blend-mode: difference;   
+}
+
+.main_catalog .container .card:nth-child(5) .img {
+background-image: url('../images/radio_shop/led_meter/voltmetr/ac/ac_dc_voltmetr.jpg');    
+mix-blend-mode: hard-light;
+}
+
+.main_catalog .container .card:nth-child(6) .img {
+background-image: url('../images/radio_shop/led_meter/shunt/1103463920153895211.jpg');    
+mix-blend-mode: hard-light;
+width: 200px;
+}
+
+.main_catalog .container .card:nth-child(7) .img {
+background-image: url('../images/radio_shop/dc_dc/-397852299-1110601854.jpg');    
+mix-blend-mode: hard-light;
+width: 200px;
+}
+.main_catalog .container .card:nth-child(8) .img {
+background-image: url('../images/radio_shop/ac_dc/-1687256980-48400797.jpg');    
+mix-blend-mode: hard-light;
+width: 200px;
+}
+.main_catalog .container .card:nth-child(9) .img {
+background-image: url('../images/radio_shop/thermometr/833996937-1259971728.jpg');    
+mix-blend-mode: hard-light;
+width: 200px;
+}
+.main_catalog .container .card:nth-child(10) .img {
+background-image: url('../images/radio_shop/obd2/-1476547673-1822020271.jpg');    
+mix-blend-mode: hard-light;
+width: 200px;
+}
+
+/**********************************************************
+             PRODUCT.HTML 
+**********************************************************/
+/* catalog */
+.catalog .container {
+    overflow: hidden;
+    padding: 0;
+}
+.catalog aside,
+.product aside {
+    float: left;
+    width: 288px;
+    padding: 16px;
+}
+.catalog article,
+.product article {
+    margin-left: 320px;
+    padding: 16px;
+}
+.product article {
+    display: grid;
+    gap: 16px;
+    grid-template-columns: 450px 1fr;
+}
+.product article h1,
+.product article .descriptions {
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+.price {
+    font: bold 32px/48px 'roboto';
+    color: #150b37;
+}
+
+
+/************ RETURN.HTML ************/
+article.return {
+display: flex;
+flex-direction: column;
+justify-content: center;
+
+width:50vw;
+}
+
+div.color_1 {
+background-color: #f9f94091;
+}
+
+div.color_2 {
+background-color: #c7f2c7;
+}
+/***********************************************************
+   Каталог товаров         
+CATALOG.HTML
+************************************************************/
+.item-desk {
+    display: grid;
+    gap: 5px;
+    grid-template-columns: repeat(5, 1fr);
+    /*! border: 1px solid black; */
+}
+.item {
+    width: 180px;
+    cursor: pointer;
+    
+    border: 3px solid #1b46f0;
+    border-radius: 5px;
+}
+
+.item a {
+ text-decoration:  none;   
+    
+}
+.item:hover {
+    box-shadow: 1px 1px 15px rgba(0,0,0,0.3);
+    /*! width: 250px; */
+}
+
+/**********  Выравнивание заголовка H3 в контейнере ***************/
+div .item h3 {
+display: inline-block;
+margin: auto;    
+font-size: 0.9em;
+width: 100%;
+color: #fbf7e5;
+background-color: #402a2a;
+}
+/**********  Выравнивание фотографии в контейнере ***************/
+div .item img {
+display: block;
+height: 150px;    
+margin: auto; 
+width: 100%;
+}
+div.item p {
+/*! background-color: #ddcdcd; */
+font-size: 0.7em;
+background-color: #9dc9f0;
+height: 50px;
+/*! align-content: center; */
+/*! margin: auto; */
+text-align: center;
+line-height: inherit;
+}
+div.item button {
+background-color: #168436;
+
+}
+
+/************************** КНОПКА КУПИТЬ BUY  ***************************/
+.buy,
+.item button {
+    background: #959d6a;
+    color: white;
+    font-size: 1.1em;
+    line-height: 15px;
+    padding: 12px 28px;
+    display: block;
+    width: 100%;
+    border-radius: 16px;
+    /*! margin: 16px 0 0; */
+    border: 4px solid white;
+    cursor: pointer;
+}
+.buy:hover,
+.item button:hover {
+    color: #221d1d;
+    background-color: #dcdfcd;
+}
+
+/* catmenu */
+.opener {
+    font-size: 32px;
+    line-height: 48px;
+    padding: 16px 16px 16px 80px;
+    background: #0c1753;
+    color: #e3e1bf;
+    cursor: pointer;
+    border-radius: 16px;
+    margin-bottom: 16px;
+    position: relative;
+}
+.opener::before,
+.opener::after {
+    position: absolute;
+    left: 16px;
+    width: 48px;
+    height: 48px;
+    content: '';
+}
+.opener::before {
+    top: 16px;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    height: 21px;
+    transform-origin: left top;
+    transition: border-bottom-width 1.4s step-end, transform 1.5s ease, width 1.5s ease;
+}
+.opener::after {
+    top: 41px;
+    border-bottom: 2px solid white;
+    height: 21px;
+    transform-origin: left bottom;
+    transition: transform 1.5s ease, width 1.5s ease;
+}
+.opener:hover,
+.opener:hover::before,
+.opener:hover::after,
+.opener:hover span::before {
+    color: yellow;
+    border-color: yellow;
+}
+.open .opener::before,
+.open .opener::after {
+    width: 66px;
+}
+.open .opener::before {
+    border-bottom-width: 0;
+    transform: rotate(45deg);
+    transition: border-bottom-width 1.4s step-start, transform 1.5s ease, width 1.5s ease;
+}
+.open .opener::after {
+    transform: rotate(-45deg);
+}
+.accordeon {
+    display: none;
+}
+.open .accordeon {
+    display: block;
+}
+.accordeon .sub {
+    padding-right: 24px;
+    position: relative;
+}
+.accordeon .sub::after { /*Меню свернтое */
+    position: absolute;
+    width: 24px;
+    right: 0;
+    top: 0;
+    text-align: center;
+    content: '\2795'; 
+    transition: transform .5s ease;
+    cursor: pointer;
+}
+
+/* Действие при открытие меню */
+.accordeon .sub.open::after {
+   /* transform: rotate(45deg); */
+    transform-origin: center;
+    content: '\2796';
+}
+
+.accordeon .sub > a {
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.accordeon .sub > a:hover {
+    text-decoration: underline;
+}
+.accordeon .sub > ul {
+    display: none;
+    transition: all .5s step-start;
+}
+.accordeon .sub li {
+  padding-left: 10px;
+  background-color: #f9f8e7; 
+  font-size: 0.8em;
+}
+
+.accordeon .sub li::before {
+ content: '\27A2'; 
+    
+}
+.accordeon .sub.open > ul {
+    display: block;
+    transition: all .5s step-end;
+   
+}
+/*********************************
+ Карточка товаров
+**********************************/
+/* gallery */
+.bigimage {
+    line-height: 0;
+    margin-bottom: 16px;
+}
+/********* Размер большой фотографии *************/
+.bigimage img {
+    cursor: pointer;
+    background-color: red;
+   width: 450px;
+    height: 450px;
+}
+.mini {
+    width: 410px;
+    padding: 0 20px;
+    position: relative;
+}
+.mini > div {
+    height: 50px;
+    overflow: hidden;
+    position: relative;
+}
+.mini > span {
+    position: absolute;
+    top: 0;
+    font-size: 48px;
+    line-height: 50px;
+    color: gray;
+    cursor: pointer;
+}
+.mini > span:hover {
+    color: red;
+}
+.mini > span.disabled {
+    color: lightgray;
+}
+.gal_left {
+    left: 0;
+}
+.gal_right {
+    right: 0;
+}
+.rail {
+    height: 50px;
+    position: absolute;
+    left: 0;
+    display: flex;
+    gap: 10px;
+}
+.rail img {
+    cursor: pointer;
+}
+/************ Описание товара *******************************************/
+main article div.descriptions h3 {
+display: block;
+margin: 10px;
+font-size: 20px;
+/*background-color: red; */
+text-align: left;
+}
+
+/* popups */
+.lightbox,
+.calendarbox,
+.alertbox {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    padding: 16px;
+    border-radius: 16px;
+    background: white;
+    opacity: 0;
+}
+.alertbox {
+    width: 360px;
+    height: 60px;
+    margin: -46px auto auto -196px;
+}
+.calendarbox {
+    width: 398px;
+    margin: -215px auto auto -215px;
+}
+.lightbox button,
+.calendarbox button,
+.alertbox button {
+    position: absolute;
+    top: 32px;
+    right: 32px;
+    color: white;
+    font-size: 64px;
+    line-height: 37px;
+    cursor: pointer;
+}
+.lightbox button:hover,
+.calendarbox button:hover,
+.alertbox button:hover {
+    color: yellow;
+}
+.calendarbox span {
+    flex: none;
+    height: 48px;
+    width: 48px;
+    display: block;
+    line-height: 48px;
+    text-align: center;
+    border: 1px solid gray;
+    color: gray;
+}
+.calendarbox strong {
+    flex: auto;
+    line-height: 48px;
+    text-align: center;
+    color: gray;
+}
+.calendarbox .dp_header {
+    display: flex;
+    height: 48px;
+    width: 398px;
+    gap: 8px;
+    margin-bottom: 8px;
+}
+.calendarbox .dp_grid {
+    display: grid;
+    gap: 8px;
+    grid-template-columns: repeat(7, 50px);
+}
+.calendarbox .holiday {
+    color: red;
+    border-color: red;
+}
+.calendarbox .headday {
+    border-color: transparent;
+    font-weight: bold;
+}
+.calendarbox .empty {
+    border-color: transparent;
+}
+
+
+
+/* order */
+.table div {
+    font-size: 24px;
+    line-height: 48px;
+}
+.tr {
+    display: grid;
+    grid-template-columns: 5% 30% 20% 20% 20% 5%;
+}
+.tr.top {
+    font-weight: bold;
+    border-bottom: 1px solid black;
+}
+.tr.bottom {
+    font-weight: bold;
+    border-top: 1px solid black;
+}
+.table .price {
+    font-weight: normal;
+    color: black;
+}
+.table .top .price {
+    font-weight: bold;
+}
+.table .price::after,
+.table .summa::after,
+.table .itog::after {
+	content: '\0020\20BD';
+}
+.bottom .text {
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+.bottom .itog {
+    grid-column-start: 5;
+    grid-column-end: 6;
+}
+.table button {
+    font-size: 24px;
+    line-height: 48px;
+    width: 48px;
+    cursor: pointer;
+    flex: none;
+}
+.table button:active {
+    box-shadow: inset 1px 1px 5px rgba(0, 0, 0, 0.4);
+    border-radius: 16px;
+}
+.quantity {
+    display: flex;
+    padding-right: 48px;
+    gap: 16px;
+}
+.quantity span {
+    flex: auto;
+    text-align: center;
+}
+.currency {
+    margin-top: 16px;
+}
+fieldset {
+    margin: 16px 0;
+    border: 2px solid red;
+    padding: 16px;
+}
+legend {
+    font-weight: bold;
+    color: red;
+}
+input {
+    display: block;
+    margin-top: 16px;
+    border: 1px solid gray;
+    padding: 16px;
+    color: gray;
+    height: 30px;
+    width: 250px;
+}
+textarea {
+    display: block;
+    margin-top: 16px;
+    border: 1px solid gray;
+    padding: 16px;
+    color: gray;
+    height: 60px;
+    width: 250px;
+}
+legend + input {
+    margin: 0;
+}
+.sendform {
+    display: block;
+    width: 200px;
+    padding: 16px;
+    background: red;
+    color: white;
+    cursor: pointer;
+}
+
+
+/**********************************************************
+         FOOTER FLOOR 1
+***********************************************************/
+
+footer {
+    margin: 60px 0 0 0;
+    font-weight: 900;
+    flex: none;
+    color: white;
+    background: linear-gradient(90deg, rgba(18,18,18,1) 15%, rgba(56,56,53,1) 37%, rgba(112,112,110,1) 61%, rgba(17,17,17,1) 100%);
+
+
+}
+footer section div nav.footermenu {
+display: flex;
+flex-direction: row;
+flex-wrap: wrap; 
+/* background-color: green; */
+justify-content: center;
+
+}
+
+footer section div nav.footermenu ul{
+/* background-color: red;  */  
+ width: 170px;   
+}
+
+footer section:nth-child(1) {
+    padding: 16px 0;
+    border-bottom: 2px solid white;
+    
+}
+.footermenu:nth-child(1) {
+    display: flex;
+   /* justify-content: space-between; */
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+/********* Центрирование блоков */
+.footermenu ul {
+/* background-color: red; */  
+margin: 0 10px;
+width: 180px; 
+}
+
+
+footer a {
+color: #F0FC2F;    
+text-decoration: none;    
+}
+
+footer a:hover {
+color: #24260d;    
+border: 1px solid black;
+border-radius: 4px;
+background-color: #f6f7e9;
+padding: 2px 4px;
+}
+
+footer h3 {
+text-shadow: 1px 2px 14px #d8d85d, 3px -5px 13px #3de45f;
+font-size: 16px;
+text-align: center;
+}
+
+footer li:before {
+content: "\2714 \00A0 \00A0 \00A0"  ;    
+}
+
+
+
+/**********************************************************
+         FOOTER FLOOR 2
+***********************************************************/
+footer section:nth-child(2) {
+justify-content: flex-start;
+}
+
+/**********************************************************
+         FOOTER FLOOR 3
+***********************************************************/
+footer .copy {
+text-align: center;
+/*background: linear-gradient(90deg, rgba(204,138,52,1) 15%, rgba(208,200,77,1) 47%, rgba(144,193,121,1) 71%, rgba(180,193,121,1) 86%); */
+/*color: #0c4121;*/
+width: 60%;    
+margin: 0 auto;
+
+}
+

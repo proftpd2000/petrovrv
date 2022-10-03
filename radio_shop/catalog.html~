@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title></title>
+     
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/style_tablet.css">   <!--Версия для планшетов  -->
+<link rel="stylesheet" href="css/style_mobile.css"> <!-- Версия для телефонов  -->
+<script src="js/jquery-3.6.0.min.js"></script>
+<script src="js/scripts.js"></script>
+<script src="js/main.js"></script>
+
+
+</head>
+<body>
+    <header>
+		<section class="img">
+		
+		</section>
+	
+        <section>
+            <p class="container">Интернет-магазин средств радиосвязи <b>"RK75" </b>..<span>  8(909)-911-94-94 </span> <span><a href="mailto:proftpd@mail.ru?subject=Вопрос по товару">  proftpd@mail.ru</a> </span> </p>
+        </section>
+        
+        <section class="mainhead">
+            <div class="container">
+                <a href="index.html" class="icon logo" title="Вернутся на главную"></a>
+                <div class="searschform" title="Поле для ввода искомого текста"></div>
+                <a href="#" class="icon login"></a>
+                <a href="order.html" class="icon order"></a>
+            </div>
+        </section>
+        
+        <section>
+            <nav class="topmenu container">
+                <a href="index.html" class="active" title="Вернутся на главную страницу">Главная</a>
+                <a href="catalog.html" title="Перейти в каталог товаров">Каталог</a>
+                <a href="order.html" title="Корзина">Корзина</a>
+                <a href="product.html" title="Доставка товара">Доставка</a>
+                <a href="paypal.html" title="Способы оплаты товара">Оплата</a>
+                <a href="return.html" title="Гарантия и  возврат товара">Возврат</a>
+                <a href="contacts.html" title="Контакная информация">Контакты</a>
+            </nav>
+        </section>
+    </header>
+       
+    <main>
+        <section class="catalog">
+            <div class="container">
+                <aside class="catmenu">
+                     <div class="opener">КАТАЛОГ <span class="icon cat"></span></div>
+                    <nav class="accordeon">
+                       
+                        <li class="sub">
+                                <a href="#">АвтоРемонт</a>
+                                  
+                                      <ul>
+                      						   <li><a href="obd2.html" target="_blank" title="иагностические устройства ELM327">ELM327</a></li>
+                     						   <li><a href="obd2.html" target="_blank" title="Диагностические устройства VAG KKL">VAG KKL</a></li>
+                     						   <li><a href="obd2.html" target="_blank" title="Кабели - переходники на OBD2">Адаптеры OBD2</a></li>
+                  					  </ul>
+                  					  <hr>
+                  			 </li>
+                           
+                         <li class="sub">
+                            
+                                <a href="antenns.html">Антенны</a>
+                                <ul>
+                                    <li><a href="antenns.html" title="Антенны диапазона 27 МГц">27 МГц</a></li>
+                                    <li><a href="antenns.html" title="Антенны диапазона 130-520 МГц">144/430 МГц</a></li>
+                                    <li><a href="antenns.html" title="Антенны диапазона GSM для ретрансляторов ">GSM</a></li>
+                                    <li><a href="antenns.html" title="Антенны диапазона LTEдля ретрансляторов ">LTE</a></li>
+                                    <li><a href="antenns.html" title="Антенны для Wi0Fi роутеров ">Wi-fi</a></li>
+                                    
+                                    <hr>
+                                        <h4>По применению</h4>
+                                        <ul class="podklass">
+                                            <li><a href="antenns.html">Автомобильные</a></li>
+                                            <li><a href="antenns.html">Для носимых</a></li>
+                                            <li><a href="antenns.html">Базовые</a></li>
+                                        </ul>
+                                      
+                                    </li>
+                                   
+                    
+                        <hr> 
+                           
+                              <!--    -->
+                                   
+                       <li class="sub">
+                                <a href="#">Источники</a>
+                                  
+                                      <ul>
+                      						   <li><a href="ac_dc.html" target="_blank" title="Источники питания от сети 220В">AC/DC</a></li>
+                     						   <li><a href="dc_dc.html" target="_blank" title="Конвертеры напряжения">DC/DC</a></li>
+                  					  </ul>
+                  					  <hr>
+                  			 </li>
+                              <!--   -->
+                             
+                       <li class="sub">
+                                <a href="ant_adapter.html">Переходники</a>
+                                  
+                                      <ul>
+                      						   <li><a href="ant_adapter.html" target="_blank" title="Антенные переходники BNC">BNC</a></li>
+                     						   <li><a href="ant_adapter.html" target="_blank" title="Антенные переходники для радиостанций  Motorola">Motorola</a></li>
+                        						<li><a href="ant_adapter.html" target="_blank" title="Антенные переходники PL259">PL259</a></li>
+                        						<li><a href="ant_adapter.html" target="_blank" title="Антенные переходники SMA">SMA</a></li>
+                        						<li><a href="ant_adapter.html" target="_blank" title="Антенные переходники SO-231">SO-231</a></li>
+                        						<li><a href="ant_adapter.html" target="_blank" title="Антенные переходники TNC">TNC</a></li>
+                        
+                  					  </ul>
+                  					  <hr>
+                  				</li>   
+                  					  
+                       <li class="sub">
+                                <a href="radio_stations.html">Радиостанции</a>
+                                <ul>
+                                			<li><a href="radio_stations.html" target="_blank" title="Автомобилные радиостанции ">Автомобильные</a></li>
+                        					<li><a href="radio_stations.html" target="_blank" title="Базовые радиостанции">Базовые </a></li>
+                       						<li><a href="radio_stations.html" target="_blank" title="Носимые радиотанции ">Носимые</a></li>
+                                </ul>
+                                <hr>
+                       </li>                       
+                       <li class="sub">
+                                <a href="tangenta.html">Тангенты</a>
+                                <ul>
+                                          <li> <a href="tangenta.html" target="_blank" title="Тангенты и грнитуры для носимых и автомобильных радиостанций">Alan</a></li>
+                       							<li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Argut">Argut</a></li>
+                       							<li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Baofeng">Baofeng</a></li>
+                        						<li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций HYT">HYT</a></li>
+                        						<li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Icom">Icom</a></li>
+                        						<li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Kenwood">Kenwood</a></li>
+                        						<li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Midland">Midland</a></li>
+                        						<li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Megajet">Megajet</a></li>
+														<li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Motorola">Motorola</a></li>
+                        						<li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Yeasu">Yeasu</a></li>
+
+                                </ul>
+                                <hr>
+                            </li>
+                            
+                            <li>
+                                <a href="#">Аккмуляторы</a>
+                            </li>
+                          
+                            <li>
+                                <a href="#">Аксессуары</a>
+                            </li>
+                            <hr> 
+                      <li class="sub">
+                                <a href="#">Радиолюбителю</a>
+                                <ul>
+                                    <li><h4>Паяльники</h4></li>
+                                    <li><h4>Программаторы</h4></li>
+                                      <ul>
+                                       	<li><a href="programmers.html" title="Программаторы для микроконтроллеров ARM">ARM</a></li>
+														<li><a href="programmers.html" title="Программаторы для микроконтроллеров AVR">AVR</a></li>
+                                       	<li><a href="programmers.html" title="Программаторы для микроконтроллеров PIC">PIC</a></li>
+														<li><a href="programmers.html" title="Программаторы для радиостанций">Для радиостанций</a></li>
+                                     
+                                      </ul>
+                                  </ul>
+                            </li>
+                            <hr> 
+                      <li class="sub">
+                                <a href="#">Индикаторы</a>
+                                <ul>
+                                    <li><a href="led_indicator.html" target="_blank" title="Цифровые и аналоговые вольтметры">Вольтметры</a></li>
+                                    <li><a href="led_indicator.html" target="_blank" title="Цифровые и аналоговые амперметры">Амперметры</a></li>
+                                    <li><a href="led_indicator.html" target="_blank" title="Цифровые ватметры">Ваттметры</a></li>
+                                    <li><a href="thermometr.html" target="_blank" title="Цифровые и аналоговые термометры и индикаторы влажности">Гигрометры</a></li>
+                                    <li><a href="thermometr.html" target="_blank" title="Цифровые и аналоговые термометры и индикаторы влажности">Гигрометры</a></li>
+                                  </ul>
+                            </li>
+                            
+        				  </nav>
+                </aside>
+          <!--               КАТАЛОГ ТОВАРОВ -->      
+                <article>
+                    <h2>Каталог товаров</h2>
+<!--Антенны -->                      
+<h3>Антенны</h3>
+           <div class="item-desk">
+                                   
+                        <div class="item" >
+                            <h3>Антенны 27 МГц</h3>
+                            <img src="images/radio_shop/antenna/27mhz/650735619-2103305686.jpg" width="245" alt="Антенна для радиостанций 27 МГц">
+                            <p>Антенны 27 МГц</p>
+                           <a href="antenns.html" target="_blank" title="Антенны для носимых и автомобильных радиостанций">  <button type="button">Просмотр</button> </a>
+                        </div>
+                        
+							   <div class="item" >
+                            <h3>144/430 МГц</h3>
+                            <img src="images/radio_shop/antenna/144_430mhz/-337535912-1953926019.jpg" width="245" alt="Антенны для носимых радисотанций">
+                            <p>Антенны 144/430 МГц.</p>
+                              <a href="antenns.html" target="_blank" title="Антенны для носимых и автомобильных радиостанций">  <button type="button">Просмотр</button> </a>
+                        </div>                        
+                        
+  								 <div class="item" >
+                            <h3>Антенны 900 МГц</h3>
+                            <img src="images/radio_shop/antenna/900mhz/-562391061-1018435096.jpg" width="245" alt="Антенна GSM 900МГц">
+                            <p>Антенны 900 МГц</p>
+                             <a href="antenns.html" target="_blank" title="Антенны для носимых и автомобильных радиостанций">   <button type="button">Просмотр</button></a>
+                        </div>                        
+
+
+							   <div class="item" >
+                            <h3>Антенны LTE</h3>
+                            <img src="images/radio_shop/antenna/lte/15468936971921390672.jpg" width="245" alt="Антенна диапазона LTE">
+                            <p>Антенны LTE.</p>
+                              <a href="antenns.html" target="_blank" title="Антенны для носимых и автомобильных радиостанций">  <button type="button">Просмотр</button></a>
+                        </div>
+
+  									 <div class="item" >
+                            <h3>Антенны Wi-Fi.</h3>
+                            <img src="images/radio_shop/antenna/wifi/324661302616132185.jpg" width="245" alt="Антенна диапазона Wi-Fi">
+                            <p>Антенны Wi-Fi.</p>
+                           <a href="antenns.html" target="_blank" title="Антенны для носимых и автомобильных радиостанций">   <button type="button">Просмотр</button></a>
+                        </div>  
+  </div>
+  
+  <h3>Антенные переходники</h3>
+           <div class="item-desk">                                            
+      <!-- Антенные переходники -->    
+                    
+								<div class="item">
+                            <h3>Переходники BNC</h3>
+                            <img src="images/radio_shop/adapter/bnc/-1202479092-1608203205.jpg" width="245" alt="Антенный переходник BNC">
+                            <p>Антенные переходники BNC.</p>
+                         <a href="ant_adapter_bnc.html">  <button type="button">Просмотр</button></a>
+                        </div>
+                         
+								<div class="item">
+                            <h3>Переходники PL259.</h3>
+                            <img src="images/radio_shop/adapter/motorola/1488565595-1634981069.jpg" width="245"  alt="SO-239 антенный переходник">
+                            <p>Антенные переходники PL259.</p>
+                          <a href = "adapter_pl259.html" title="" > <button type="button">Просмотр</button></a>
+                        </div>
+                        <div class="item">
+                            <h3 title="Антенные переходники для радиостанций Motorola">Для Motorola</h3>
+                            <img src="images/radio_shop/adapter/motorola/1110198066-327386512.jpg" width="245" alt="Антенный переходник для радиостанции Motorola">
+                            <p>Антенные переходники для р.ст. Motorola</p>
+                         <a href = "adapter_motorola.html" title="" >  <button type="button">Просмотр</button></a>
+                        </div>            
+				            
+				              <div class="item">
+                            <h3>Переходники N-type</h3>
+                            <img src="images/radio_shop/adapter/n-type/1006137666-1256887775.jpg" width="245"  alt="Антенный переходник N-type">
+                            <p>Антенные переходники N-type</p>
+                         <a href = "adapter_n_type.html" title="" >  <button type="button">Просмотр</button></a>
+                        </div>    
+                        
+								<div class="item">
+                            <h3>Переходники SMA.</h3>
+                            <img src="images/radio_shop/adapter/pl259/-84333648-1920608387.jpg" width="245" height="720" alt="Антенный переходник SMA-F на PL259">
+                            <p>Антенные переходники SMA.</p>
+                          <a href = "adapter_sma.html" title="" > <button type="button">Просмотр</button></a>
+                        </div>             
+								<div class="item">
+                            <h3>Переходники SO-239</h3>
+                            <img src="images/radio_shop/adapter/so239/-990458671259404993.jpg" width="245" alt="Антенный переходник SO-239">
+                            <p>Антенные переходники SO-239</p>
+                          <a href = "adapter_so_239.html" title="" > <button type="button">Просмотр</button></a>
+                        </div>                        
+                                   
+                        
+                        	<div class="item">
+                            <h3>Переходники TNC.</h3>
+                            <img src="images/radio_shop/adapter/tnc/-2053171114-1898163986.jpg" width="245"  alt="Антенный переходник TNC">
+                            <p>Антенные переходники TNC.</p>
+                          <a href = "adapter_tnc.html" title="" > <button type="button">Просмотр</button></a>
+                        </div>
+               </div>
+               <h3>Программаторы для радиостанций</h3>
+           <div class="item-desk">         
+<!--ПРОГРАММАТОРЫ -->                                   
+                        
+                        
+                        
+  								    <div class="item">
+                            <h3>Программаторы Baofeng.</h3>
+                            <img src="images/radio_shop/programmator/baofeng/-1592101996-664888471.jpg" width="245" alt="Программаторы для радиостанций Baofeng, Kenwood">
+                            <p>Программаторы для Baofeng.</p>
+                           <a href = "" title="" >  <button type="button">Просмотр</button></a>
+                           </div>		                      
+                       
+                          <div class="item">
+                            <h3>Программаторы  Icom.</h3>
+                            <img src="images/radio_shop/programmator/icom/-1596139663-511921532.jpg" width="245" alt=" Программаторы для радиостанций ICOM">
+                            <p>Программаторы для Icom.</p>
+                           <a href = "" title="" >  <button type="button">Просмотр</button></a>
+                        </div>
+                          <div class="item">
+                            <h3>Программаторы Kenwood.</h3>
+                            <img src="images/radio_shop/programmator/baofeng/-1592101996-664888471.jpg" width="245"alt="Программаторы для радиостанций Baofeng, Kenwood">
+                            <p>Программаторы для Kenwood.</p>
+                            <a href = "" title="" > <button type="button">Просмотр</button></a>
+                        </div>
+                        
+                        
+                        
+                             <div class="item">
+                            <h3>Программаторы Motorola.</h3>
+                            <img src="images/radio_shop/programmator/motorola/-517481691-569454705.jpg" width="800" height="800" alt="Программатор для радиостанций Моторола">
+                            <p>Программаторы для Motorola.</p>
+                           <a href = "" title="" >  <button type="button">Просмотр</button></a>
+                        </div>
+                        
+          </div>
+          <h3>Радиостанции новые и б.у.</h3>
+           <div class="item-desk">              
+                         <div class="item">
+                            <h3>Радиостанции носимые</h3>
+                            <img src="images/radio_shop/radiostantion/mobile/baofeng/1944655287-163572382.jpg" width="245" alt="Радиостанции носимые">
+                            <p>Радиостанции носимые.</p>
+                            <a href="radio_stations.html" target="_blank" title="Радиостанции автомобильные, носимые и базовые"> <button type="button">Просмотр</button></a>
+                        </div>
+                         <div class="item">
+                            <h3>Радиостанции автомобильные</h3>
+                            <img src="images/radio_shop/radiostantion/base/-1131630824-2096382443.jpg" width="245" alt="Радиостанции автомобильные">
+                            <p>Радиостанции автомобильные.</p>
+                            <a href="radio_stations.html" target="_blank" title="Радиостанции автомобильные, носимые и базовые"> <button type="button">Просмотр</button></a>
+                        </div>
+                         <div class="item">
+                            <h3>Радиостанции базовые.</h3>
+                            <img src="images/radio_shop/radio/other/-289382145-1237173057.jpg" width="245" alt="КВ трансивер SDR">
+                            <p>Радиостанции базовые.</p>
+                            <a href="radio_stations.html" target="_blank" title="Радиостанции автомобильные, носимые и базовые"> <button type="button">Просмотр</button></a>
+                        </div>
+								 <div class="item">
+                            <h3>Радиостанции б.у.</h3>
+                            <img src="images/radio_shop/radiostantion/base/-1131630824-2096382443.jpg" width="245" alt="Радиостанции автомобильные">
+                            <p>Радиостанции уцененные и б.у.</p>
+                           <a href="radio_stations.html" target="_blank" title="Радиостанции автомобильные, носимые и базовые"> <button type="button">Просмотр</button></a>
+                        </div>
+            </div>
+<h3>Тангенты и гарнитуры для радиостанций</h3>
+           <div class="item-desk">
+                                                
+                        <div class="item">
+                            <h3>Тангенты Baofeng.</h3>
+                            <img src="images/radio_shop/tangenta/baofeng/575981609-361853443.jpg" width="245" alt="Тангента для радиостанции Baofeng">
+                            <p>Тангенты и гаранитуры для р.ст. Baofeng.</p>
+                            <a href="tangenta.html" target="_blank" title="Тангенты и грнитуры для носимых и автомобильных радиостанций"> <button type="button">Просмотр</button></a>
+                        </div>
+                        
+                        
+                         <div class="item">
+                            <h3>Тангенты Icom.</h3>
+                            <img src="images/radio_shop/tangenta/icom/1416470328139038543.jpg" width="245" alt="Тангента для радиостанции Icom">
+                            <p>Тангенты и гаранитуры для р.ст. Icom.</p>
+                             <a href="tangenta.html" target="_blank" title="Тангенты и грнитуры для носимых и автомобильных радиостанций"> <button type="button">Просмотр</button></a>
+                        </div>
+                        
+                         <div class="item">
+                            <h3>Тангенты Kenwood.</h3>
+                            <img src="images/radio_shop/tangenta/baofeng/-131390714-988576218.jpg" width="245" alt="Тангента для радиостанции Baofeng">
+                            <p>Тангенты и гаранитуры для р.ст. Kenwood.</p>
+                             <a href="tangenta.html" target="_blank" title="Тангенты и грнитуры для носимых и автомобильных радиостанций"> <button type="button">Просмотр</button></a>
+                        </div>
+
+                         <div class="item">
+                            <h3>Тангенты Motorola</h3>
+                            <img src="images/radio_shop/tangenta/motorola/121839582-1967694433.jpg" width="245" alt="Тангенты и гаранитуры для р.ст. Motorola.">
+                            <p>Тангенты и гаранитуры для р.ст. Motorola.</p>
+                            <a href="tangenta.html" target="_blank" title="Тангенты и грнитуры для носимых и автомобильных радиостанций"> <button type="button">Просмотр</button></a>
+                        </div>
+                       
+                         <div class="item">
+                            <h3>Тангенты Yaesu.</h3>
+                            <img src="images/radio_shop/tangenta/yaesu/1935559178-176853692.jpg" width="245" alt="Тангенты и гаранитуры для р.ст. Yaesu.">
+                            <p>Тангенты и гаранитуры для р.ст. Yaesu.</p>
+                             <a href="tangenta.html" target="_blank" title="Тангенты и грнитуры для носимых и автомобильных радиостанций"> <button type="button">Просмотр</button></a>
+                        </div>
+                        
+                         <div class="item">
+                            <h3>Тангенты прочие</h3>
+                            <img src="images/radio_shop/tangenta/baofeng/-2132352632-1562214783.jpg" width="245" alt="Тангенты для радиостанций">
+                            <p>Тангенты для прочих р.ст..</p>
+                              <a href="tangenta.html" target="_blank" title="Тангенты и грнитуры для носимых и автомобильных радиостанций"><button type="button">Просмотр</button></a>
+                        </div>
+     </div>
+     <h3>Цифровые вольтметры, амперметры, ваттметры и термометры.</h3>
+           <div class="item-desk">                   
+      <!-- Цифровые вольтметры, амперметры, ваттметры  -->   
+                     
+                       <div class="item">
+                            <h3>Вольтметры AC</h3>
+                            <img src="images/radio_shop/led_meter/voltmetr/ac/-166325817-195044175.jpg" width="245" alt="Вольтметры переменного тока">
+                            <p>Вольтметры цифровые  переменного тока</p>
+                             <a href="led_indicator.html" target="_blank" title="Цифровые и аналоговые вольтметры, амперметры и ваттметры"><button type="button">Просмотр</button></a>
+                        </div>
+                        
+                       <div class="item">
+                            <h3>Вольтметры DC</h3>
+                            <img src="images/radio_shop/led_meter/voltmetr/dc/-16843789371688491808.jpg" width="245" alt="Вольтметры постоянного тока">
+                            <p>Вольтметры цифровые  постоянного тока</p>
+                             <a href="led_indicator.html" target="_blank" title="Цифровые и аналоговые вольтметры, амперметры и ваттметры"><button type="button">Просмотр</button></a>
+                        </div>
+                        
+                       <div class="item">
+                            <h3>Вольтметры </h3>
+                            <img src="images/radio_shop/led_meter/voltmetr/analog/1753526622-1246215931.jpg" width="245" alt="Вольтметры аналоговые">
+                            <p>Вольтметры аналоговые</p>
+                             <a href="led_indicator.html" target="_blank" title="Цифровые и аналоговые вольтметры, амперметры и ваттметры"><button type="button">Просмотр</button></a>
+                        </div>
+                        
+                       <div class="item">
+                            <h3>Амперметры</h3>
+                            <img src="images/radio_shop/led_meter/led_v_a/digital/1312026452068431626.jpg" width="245"  alt="Цифровой вольтметр - амперметр">
+                            <p>Цифровые вольтметр-амперметр</p>
+                             <a href="led_indicator.html" target="_blank" title="Цифровые и аналоговые вольтметры, амперметры и ваттметры"><button type="button">Просмотр</button></a>
+                        </div>
+                        
+                       <div class="item">
+                            <h3>Амперметры аналоговые</h3>
+                            <img src="images/radio_shop/led_meter/led_v_a/analog/1765130841922215363.jpg" width="245" alt="Цифровой вольтметр - Аналоговый амперметр">
+                            <p>Аналоговые амперметры</p>
+                           <a href="led_indicator.html" target="_blank" title="Цифровые и аналоговые вольтметры, амперметры и ваттметры"><button type="button">Просмотр</button></a>
+                        </div>
+                        
+                       <div class="item">
+                            <h3>Ваттмеры</h3>
+                            <img src="images/radio_shop/led_meter/led_v_a_w/amp_volt_watt/1190744644-1301490897.jpg" width="245" alt="Цифровые ваттметры">
+                            <p>Цифровые ваттметры</p>
+                            <a href="led_indicator.html" target="_blank" title="Цифровые и аналоговые вольтметры, амперметры и ваттметры"><button type="button">Смотреть</button></a>
+                        </div>  
+                      <div class="item" >
+                            <h3>Шунты</h3>
+                            <img src="images/radio_shop/led_meter/shunt/-21301442741166884808.jpg"  alt="Шунт для амперметра">
+                            <p>Шунты для амперметров </p>
+                           <a href="led_indicator.html" target="_blank" title="Шунты для амперметров"><button type="button">Смотреть</button></a>
+                        
+                         </div> 
+                        </div>  
+                        
+                <!-- Источники питания  --> 
+                  <h3>Источники питания ~220В</h3>
+           <div class="item-desk">
+                    <div class="item" >
+                          <h3>AC/DC</h3>
+                          <img src="images/radio_shop/ac_dc/-194390558465397369.jpg"  alt="Источник питания с 220В в 12В">
+                          <p>~220V->12V,3A </p>
+                            <a href="ac_dc.html" target="_blank" title="Источники питания 220В"><button type="button">Смотреть</button></a>
+                         </div> 
+                          <div class="item" >
+                          <h3>AC/DC</h3>
+                          <img src="images/radio_shop/ac_dc/-315739505-1388789088.jpg"  alt="Источник питания с 220В в 12В">
+                          <p>~220V->12V,10A </p>
+                            <a href="ac_dc.html" target="_blank" title="Источники питания 220В"><button type="button">Смотреть</button></a>
+                         </div> 
+                            <div class="item" >
+                          <h3>AC/DC</h3>
+                          <img src="images/radio_shop/ac_dc/-315739505-1388789088.jpg"  alt="Источник питания с 220В в 12В">
+                          <p>~220V->12V,15A </p>
+                            <a href="ac_dc.html" target="_blank" title="Источники питания 220В"><button type="button">Смотреть</button></a>
+                         </div> 
+                          <div class="item" >
+                          <h3>AC/DC</h3>
+                          <img src="images/radio_shop/ac_dc/-315739505-1388789088.jpg"  alt="Источник питания с 220В в 12В">
+                          <p>~220V->12V,20A </p>
+                            <a href="ac_dc.html" target="_blank" title="Источники питания 220В"><button type="button">Смотреть</button></a>
+                         </div> 
+                           <div class="item" >
+                          <h3>AC/DC</h3>
+                          <img src="images/radio_shop/ac_dc/-2994622632025118852.jpg"  alt="Источник питания с 220В в 12В">
+                          <p>~220V->12V,25A </p>
+                            <a href="ac_dc.html" target="_blank" title="Источники питания 220В"><button type="button">Смотреть</button></a>
+                         </div> 
+                             <div class="item" >
+                          <h3>AC/DC</h3>
+                          <img src="images/radio_shop/ac_dc/-2994622632025118852.jpg"  alt="Источник питания с 220В в 12В">
+                          <p>~220V->12V,30A </p>
+                            <a href="ac_dc.html" target="_blank" title="Источники питания 220В"><button type="button">Смотреть</button></a>
+                         </div> 
+                         <div class="item" >
+                           <h3>AC/DC</h3>
+                          <img src="images/radio_shop/ac_dc/-2994622632025118852.jpg"  alt="Источник питания с 220В в 12В">
+                          <p>~220V->12V,33A </p>
+                            <a href="ac_dc.html" target="_blank" title="Источники питания 220В"><button type="button">Смотреть</button></a>
+                         </div> 
+                         
+                            <div class="item" >
+                          <h3>AC/DC</h3>
+                          <img src="images/radio_shop/ac_dc/1024819242-430038275.jpg" alt="Источник питания с 220В в 12В">
+                          <p>~220V->12V,40A </p>
+                           <a href="ac_dc.html" target="_blank" title="Источники питания 220В"><button type="button">Смотреть</button></a>
+                         </div>               
+    
+                    </div>
+                    
+                       <h3>Преобразователи напряжения 24/12В</h3>
+                   <div class="item-desk">
+                         
+                        
+                          <div class="item" >
+                          <h3>DC/DC</h3>
+                          <img src="images/radio_shop/dc_dc/-333090165-863055599.jpg" alt="Преобразователь напряжения DC/DC">
+                          <p>14/12V->5V,3A </p>
+                           <a href="dc_dc.html" target="_blank" title="Конвертеры напряжения с 12В в 5В"><button type="button">Смотреть</button></a>
+                         </div> 
+                         
+                           
+                         
+                          <div class="item" >
+                          <h3>USB DC/DC</h3>
+                          <img src="images/radio_shop/dc_dc/-8116058891133034058.jpg"  alt="Преобразователь напряжения DC/DC">
+                          <p> </p>
+                           <a href="dc_dc.html" target="_blank" title="Конвертеры напряжения с 12В в 5В"><button type="button">Смотреть</button></a>
+                         </div> 
+                           <div class="item" >
+                          <h3> DC/DC</h3>
+                          
+                          <img src="images/radio_shop/dc_dc/14711837731162836216.jpg" width="960" height="960" alt="Преобразователь напряжения DC/DC">
+                          <p> </p>
+                            <a href="dc_dc.html" target="_blank" title="Конвертеры напряжения с 12В в 5В"><button type="button">Смотреть</button></a>
+                         </div> 
+                         
+                           <div class="item" >
+                          <h3> DC/DC</h3>
+                          <img src="images/radio_shop/dc_dc/-14774645721938308667.jpg" alt="Преобразователь напряжения DC/DC">
+                          <p> </p>
+                            <a href="dc_dc.html" target="_blank" title="Конвертеры напряжения с 12В в 5В"><button type="button">Смотреть</button></a>
+                         </div> 
+                          
+                      </div>  
+                </article>
+            </div>
+        </section>
+    </main>
+    
+    
+    <footer>
+        <section>
+            <div class="container">
+                <nav class="footermenu">
+									<ul>
+                        <h3 title="Каталог антенн для базовых, автомобильных и носимых радиостанций">АНТЕННЫ</h3>
+                        <li><a href="antenns.html" target="_blank" title="Антенны с типом разьема BNC">BNC</a></li>
+                        <li><a href="antenns.html" target="_blank" title="Антенны с типом разьема SMA">SMA</a></li>
+                        <li><a href="antenns.html" target="_blank" title="Антенны для радиостанций Motorola">Motorola</a></li>
+                        <li><a href="antenns.html" target="_blank" title="Антенны для радиостанций Yeasu">Yeasu</a></li>
+                        <hr>
+                        
+                        <li><a href="antenns.html" target="_blank" title="Антенны диапазона 144 МГц и 430 МГц.">144/430 МГц</a></li>
+                        <li><a href="antenns.html" target="_blank" title="Антенны диапазона 900 МГц.">900 МГц</a></li>
+                        <li><a href="antenns.html" target="_blank" title="Антенны диапазона 900 МГц и 1800 МГц.">900/1800 МГц</a></li>
+                        <li><a href="antenns.html" target="_blank" title="Антенны диапазона LTE">LTE</a></li>
+                    </ul>                    
+							<ul>
+                        <h3 title="Каталог программаторов для базовых, автомобильных и носимых радиостанций">ПРОГРАММАТОРЫ</h3>
+                        <li><a href="programmers.html" target="_blank" title="Программаторы для радиостанций Baofeng">Baofeng</a></li>
+                        <li><a href="programmers.html" target="_blank" title="Программаторы для радиостанций Icom">Icom</a></li>
+                        <li><a href="programmers.html" target="_blank" title="Программаторы для радиостанций Kenwood">Kenwood</a></li>
+                       	<li><a href="programmers.html" target="_blank" title="Программаторы для радиостанций Motorola">Motorola</a></li>
+                        <li><a href="programmers.html" target="_blank" title="Программаторы для радиостанций Yeasu">Yeasu</a></li>
+                        
+                    </ul>
+                     <ul>
+                        <h3 title="Каталог высокочастотынх антенных разьемов и переходников для   радиостанций">ПЕРЕХОДНИКИ</h3>
+                        <li><a href="ant_adapter.html" target="_blank" title="Антенные переходники BNC">BNC</a></li>
+                        <li><a href="ant_adapter.html" target="_blank" title="Антенные переходники для радиостанций  Motorola">Motorola</a></li>
+                        <li><a href="ant_adapter.html" target="_blank" title="Антенные переходники PL259">PL259</a></li>
+                        <li><a href="ant_adapter.html" target="_blank" title="Антенные переходники SMA">SMA</a></li>
+                        <li><a href="ant_adapter.html" target="_blank" title="Антенные переходники SO-231">SO-231</a></li>
+                        <li><a href="ant_adapter.html" target="_blank" title="Антенные переходники TNC">TNC</a></li>
+                        
+                    </ul>
+					    <ul>
+                        <h3 title="Каталог базовых, автомобильных и носимых радиостанций">РАДИОСТАНЦИИ</h3>
+								<li><a href="radio_stations.html" target="_blank" title="Автомобилные радиостанции">Автомобильные</a></li>
+                        <li><a href="radio_stations.html" target="_blank" title="Базовые радиостанции">Базовые </a></li>
+                        <li><a href="radio_stations.html" target="_blank" title="Носимые радиотанции ">Носимые</a></li>
+                        
+                      
+                        
+                    </ul>
+                    <ul>
+                        <h3 title="Каталог тангент для базовых, автомобильных и носимых радиостанций">ТАНГЕНТЫ</h3>
+                        <li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Alan">Alan</a></li>
+                        <li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Argut">Argut</a></li>
+                        <li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Baofeng">Baofeng</a></li>
+                        <li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций HYT">HYT</a></li>
+                        <li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Icom">Icom</a></li>
+                        <li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Kenwood">Kenwood</a></li>
+                        <li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Midland">Midland</a></li>
+                        <li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Megajet">Megajet</a></li>
+								<li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Motorola">Motorola</a></li>
+                        <li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Yeasu">Yeasu</a></li>
+                        
+                    </ul>
+                </nav>
+            </div>
+        </section>
+		
+		<!--  FLOOR 2 -->
+         <section>
+            <div class="container">
+                <nav class="footermenu">
+						<ul>
+							<h3 title="">Покупателям</h3>
+							<li><a href="#" target="_blank" title="Как заказат товар">Заказ</a></li>
+							<li><a href="#" target="_blank" title="Доставка товара">Доставка</a></li>
+							<li><a href="pay.html" target="_blank" title="Способы оплаты товара">Оплата</a></li>
+							<li><a href="#" target="_blank" title="Гаранти и возврат товара">Возврат</a></li>
+											
+						</ul>
+						
+						<ul>
+							<h3 title="">Компания</h3>
+							<li><a href="#" target="_blank" title="О нас">О нас</a></li>
+							<li><a href="contacts.html" target="_blank" title="Адрес компании">Контакты</a></li>
+						</ul>
+						
+						<ul>
+							<h3 title="Мы в социальных сетях">СоцСети</h3>
+							<li><a href="#" target="_blank" title="Мы в социалной сети Однокласники">Однокланики</a></li>
+							<li><a href="#" target="_blank" title="Мы в Instagram">Instagram</a></li>
+							<li><a href="#" target="_blank" title="Мы в социалной сети FaceBook">FaceBook</a></li>
+							<li><a href="#" target="_blank" title="Мы в Telegram">Telegram</a></li>
+							<li><a href="#" target="_blank" title="Мы в социалной сети ВКОНТАКТЕ">VK.COM</a></li>
+							<li><a href="#" target="_blank" title="АМы на хостинге YpuTube ">Youtube</a></li>
+						</ul>
+                   
+                                            
+                    
+				</nav>
+			</div>
+		 </section>		
+	
+		
+        <section>
+            <div class="container">
+                <p class="copy">© @ 2022 PROFTPD2022, Petrov Roman, proftpd@maill.ru.</p>
+            </div>
+        </section>
+    </footer>
+
+</body>
+</html><a href="#">

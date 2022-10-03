@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Платежные реквизиты">
+  <meta name="keywords" content="Платежные реквизиты ">
+  <meta name="author" content="roman" >
+<!-- 
+<meta name="viewport" content="width=1200">
+<meta name="viewport" content="device-width">
+
+ -->
+	<link rel="stylesheet" href="css/style.css">
+
+	<link rel="stylesheet" href="css/style_tablet.css">
+   <link rel="stylesheet" href="css/style_mobile.css">
+	<title>Платежные реквизиты </title>
+
+</head>
+<body>
+<header>
+	<div title="Сайт Петрова Романа, 8(905)341-79-19, proftpd@mail.ru"></div>
+	<div title="Это я, Петров Роман, радиолюбитель и  инженер."></div>
+	<div>
+	  <nav>
+	   <span class="link_menu"> <a href="index.html" target="_blank" title="Контактная информаци">Главная</a>  </span>
+	   <span class="link_menu"> <a href="contact.html" target="_blank" title="Контактная информаци и проезд">Контакты</a>  </span>
+	   <span class="link_menu"> <a href="paypal.html" target="_blank" title="Платежные реквизиты для опалты услуг">Оплата</a>  </span>
+	   <span class="link_menu"> <a href="radio_shop/index.html" target="_blank" title="Интернет-магазин средств радиосвязи">Магазин</a>  </span>
+	   <span class="link_menu"><a href="https://proftpd2000.livejournal.com/" target="_parent" title="Блог на сайте LiveJournal.com">LiveJournal </a> </span>
+		<span class="link_menu"><a href="https://www.youtube.com/c/PetrovRV2010/videos" target="_parent" title="Перейти на мой канал">YouTube </a> </span>
+	<!--	<span class="link_menu"><a href="https://web.facebook.com/aor8200/" title="Я в социальной сети FaceBook, I'm on a social network FaceBook">FaceBook</a> </span>
+		<span class="link_menu"><a href="https://www.instagram.com/petrov_roman6463/" title="Я в Instagram, I'm on a social network Instagram">Instagram</a>  </span>
+	-->	  
+	  	</nav>
+	</div>
+</header>
+ <main class="paypal">
+ <!--  -->
+<section class="paypal">
+      	<div class="card_3">
+									<h3>Альфа-Банк</h3>
+									<div class="img"></div>
+									<p>
+										<li><b>Петров Роман Викторович</b></li>
+										<li><b>Номер счёта:</b>  40817 810 6 0426 0000275</li>
+										<li><b>Банк получателя:</b> АО «Альфа-Банк», г. Москва</li>
+										<li><b>БИК:</b>  044525593</li>
+										<li><b>ИНН Банка:</b>  7728168971</li>
+										<li><b>КПП Банка:</b>  770801001</li>
+										<li><b>Кор. счёт:</b> 30101810200000000593</li>
+									</p>
+							</div>
+							
+							<div class="card_2">
+									<h3>Сбербанк</h3>
+									<div class="img"></div>
+									<p>
+										<li><b>Петров Роман Викторович</b></li>
+										<li><b>Карта привязана к телефону:</b> 8(905)341-79-19</li> 
+									</p>
+							</div>
+							
+						
+		  
+
+	                    <div class="card_1">
+	                    <div class="img"></div>
+							  <h3>YandexMoney</h3>
+							  <p>
+		                 <iframe src="https://yoomoney.ru/quickpay/shop-widget?writer=seller&default-sum=&button-text=12&payment-type-choice=on&mobile-payment-type-choice=on&fio=on&phone=on&mail=on&successURL=http%3A%2F%2Fpetrovrv.ru&quickpay=shop&account=410011691131052&targets=%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%20%D0%BF%D0%BE%20%D0%BA%D0%BD%D0%BE%D0%BF%D0%BA%D0%B5&" width="423" height="226" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
+		                 </p>
+		                 </div> 
+</section>
+ 
+
+			
+ </main>
+
+<footer>
+		<section>
+		  <article>
+		    <nav>
+			
+			
+			</nav>
+		  
+		  </article>
+		  
+		  
+		   <article title="Моя контактная информация">
+		  <p>
+			  <h3>Контакты</h3>
+			  <li>8(905)-341-79-19</li>
+			  <li>proftpd@mail.ru</li>
+			  <li>Г. Москва, Проспект Вернадского, д.32. к.71</li>
+		 </p>
+		  </article>
+		
+		   <article>
+		  
+		  </article>
+		
+		</section>
+
+		<section>
+		<p>
+		 © 2022  Дизайн разработал Петров Роман, <i>proftpd@mail.ru</i>  
+		</p>
+		</section>
+
+</footer>
+

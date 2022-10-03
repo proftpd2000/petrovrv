@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Туризм по золотому кольцу России, личный водитель по золотому кольцу России">
+    <meta name="keywords" content="малые города россии туризм, города россии для туризма летом, лучшие города россии для туризма, куда поехать отдыхать, интересные города россии для туризма, Водитель по золотому Кольцу, водитель ярославль москва, водитель москва владимир, водитель нижний новгород москва, Водитель Москва Муром">
+    <meta name="author" content="roman" >
+<!-- 
+<meta name="viewport" content="width=1200">
+<meta name="viewport" content="device-width">
+
+ -->
+	<link rel="stylesheet" href="css/style.css">
+
+	<link rel="stylesheet" href="css/style_tablet.css">
+   <link rel="stylesheet" href="css/style_mobile.css">
+<link rel="stylesheet" href="voyage/css/style_voyage.css">
+<script src="voyage/js/album.js"></script>
+	<title>Туризм по городам России</title>
+
+</head>
+<body>
+<header>
+	<div title="Сайт Петрова Романа, 8(905)341-79-19, proftpd@mail.ru"></div>
+	<div title="Это я, Петров Роман, радиолюбитель и  инженер."></div>
+</li>	<div>
+	  <nav>
+	  <span class="link_menu"> <a href="index.html" target="_blank" title="Контактная информаци">Главная</a>  </span>
+	   <span class="link_menu"> <a href="contact.html" target="_blank" title="Контактная информаци">Контакты</a>  </span>
+	   <span class="link_menu"> <a href="paypal.html" target="_blank" title="Платежные реквизиты для опалты услуг">Оплата</a>  </span>
+	   <span class="link_menu"> <a href="radio_shop/index.html" target="_blank" title="Интернет-магазин средств радиосвязи">Магазин</a>  </span>
+	   <span class="link_menu"><a href="https://proftpd2000.livejournal.com/" target="_parent" title="Блог на сайте LiveJournal.com">LiveJournal </a> </span>
+	   <!-- 		<span class="link_menu"><a href="https://www.youtube.com/c/PetrovRV2010/videos" target="_parent" title="Перейти на мой канал">YouTube </a> </span>
+	<!--	<span class="link_menu"><a href="https://web.facebook.com/aor8200/" title="Я в социальной сети FaceBook, I'm on a social network FaceBook">FaceBook</a> </span>
+		<span class="link_menu"><a href="https://www.instagram.com/petrov_roman6463/" title="Я в Instagram, I'm on a social network Instagram">Instagram</a>  </span>
+	-->	  
+	  	</nav>
+	</div>
+</header>
+ <main>
+	<section>
+		<article title="Туризм по городам России.">
+			<h3>Направления поездок </h3>
+			<p>
+					<li>Москва -> Вологда</li>
+					<li>Москва -> Владимир</li>
+					<li>Москва -> Дивеево</li>
+					<li>Москва -> Калуга</li>
+					<li>Москва -> Кострома</li>
+					<li>Москва -> Оптина-Пустынь</li>
+					<li>Москва -> Переславль-Залесский</li>
+					<li>Москва -> Муром</li>
+					<li>Москва -> Нижний-Новгород</li>
+					<li>Москва -> Ростов</li>
+					<li>Москва -> Ярославль</li>
+			</p>
+		</article>
+		
+		<article title="Стоимость поездки">
+			<h3> Стоимость поездки</h3>
+			<li>5 рублей/км с человека</li>
+		   <li><a href="mailto:proftpd@mail.ru?subject=%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%20%D1%86%D0%B5%D0%BD%D1%8B%20%D0%BD%D0%B0%20%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4%D0%BA%D1%83">E-mail</a></li>
+					
+			
+			
+		</article>
+		
+	</section>
+<!-- 1 SECTION VIDEO-->	
+<h2>Туризм по городам России</h2>
+			<section class="video"  itemscope itemtype ="https://schema.org/Movie">
+			      
+				<p>
+					<a href="https://youtu.be/mxURPUeum88" target="_blank" title="Ярославль, женский монатсырь"> <img src="voyage/img/yaroslavl.jpg"  alt="Ярославль женский монатсырь"></a>
+					<br><span itemprop="name">Ярославль, женский монастырь </span>
+				</p>
+				<p>
+					<a href="https://youtu.be/v-S1zp5llnA" target="_blank" title="Город Ярославль"> <img src="voyage/img/yaroslav_2.jpg" alt="Ярославль"></a>
+					<br><span itemprop="name">Город Ярославль </span>
+				</p>
+
+				<p>
+				<a href="https://youtu.be/pg9smbPBkzI" target="_blank" title="Ростов"> <img src="voyage/img/rostov.jpg"  alt="Ростов"></a>
+				<br><span itemprop="name">Ростов</span>
+				</p>	
+				<p>
+				<a href="https://youtu.be/t9q3jeKuBDg" target="_blank" title="Парк Коломенское"> <img src="voyage/img/kolomenskoe.jpg"  alt="Парк Коломенское"></a>
+				<br><span itemprop="name" title="Парк Коломенское, Г. Москва.">Парк Коломенское </span>
+				</p>
+				
+							<p>
+				<a href="https://youtu.be/qbRZiUWmtFc" target="_blank" title="Город Ульяновск"> <img src="voyage/img/ylanovsk_1.jpg" alt="Ульяновск"></a>
+				<br><span itemprop="name">город Ульяновск</span>
+				</p>
+				<p>
+				<a href="https://youtu.be/75BC4hZEAEw" target="_blank" title="Нижний-Новогрод"> <img src="voyage/img/nn_1.jpg" alt="Нижний-Новогрод"></a>
+				<br><span itemprop="name"> город Нижний-Новогрод </span>
+				</p>
+        </section>
+        <h2 title="Туризм по городам московской области">Московская область </h2>
+	    <section class="video">
+	    
+			    <p>
+				<a href="https://youtu.be/CDmASaK49_I" target="_blank" title="Природа Пушкино"> <img src="voyage/img/pushkino.jpg" alt="Природа Пушкино"></a>
+				<br><span itemprop="name">Зима в  Пушкино</span>
+				</p>
+        
+        
+			   <p>
+				<a href="https://youtu.be/IrmmfCXJ3Zo" target="_blank" title="Весна Пушкино"> <img src="voyage/img/pushkino_2.jpg" alt="Весна Пушкино"></a>
+				<br><span itemprop="name">Весна в Пушкино</span>
+				</p>
+				
+				<p>
+				<a href="https://youtu.be/6--1ucEP3_o" target="_blank" title="Весна Пушкино"> <img src="voyage/img/pushkino_3.jpg" alt="Весна Пушкино"></a>
+				<br><span itemprop="name">Природа Пушкино
+				</p></span>
+				<p>
+				<a href="https://youtu.be/aiFOP11eU3Y" target="_blank" title="Весна Пушкино"> <img src="voyage/img/pushkino_4.jpg" alt="Весна Пушкино"></a>
+				<br><span itemprop="name">Природа Пушкино</span>
+				</p>
+		
+				<p>
+				<a href="https://youtu.be/4io4JgqCsk8" target="_blank" title="Природа"> <img src="voyage/img/priroda_1.jpg" alt="Природа"></a>
+				<br><span itemprop="name">Природа </span>
+				</p>
+				<p>
+				<a href="https://youtu.be/maCRMTLF938" target="_blank" title="Природа"> <img src="voyage/img/priroda_2.jpg" alt="Природа"></a>
+				<br><span itemprop="name">Природа </span>
+				</p>
+				</section>
+		<h2 title="Велотуризм по городам России">Велопоездки</h2>
+		<section class="video">
+	
+				<p>
+				<a href="https://youtu.be/WzdSD04lrts" target="_blank" title="Велопоход Пушкино-Александров-Киржач-Пушкино, 278 км."> <img src="voyage/img/aleksandrov_1.jpg" alt="Велопоход Пушкино-Александров-Киржач-Пушкино, 278 км."></a>
+				<br> <span itemprop="name">Велопоход 280 км в Алексадров</span>
+				</p>
+			</section>
+			<h2 title="Поездка в город Ярославль">Фотоальбом Ярославль.</h2>
+<section>
+
+
+<div class="row">
+  <div class="column">
+    <img src="voyage/yaroslavl/yaroslavl_1_0.jpg" alt="Ярославль" class="hover-shadow cursor" style="width:100%" onclick="openModal();currentSlide(1)">
+  </div>
+  <div class="column">
+    <img src="voyage/yaroslavl/yaroslavl_2_0.jpg" alt="Ярославль" style="width:100%" onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
+  </div>
+  <div class="column">
+    <img src="voyage/yaroslavl/yaroslavl_3_0.jpg" alt="Ярославль" style="width:100%" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
+  </div>
+  <div class="column">
+    <img src="voyage/yaroslavl/yaroslavl_4_0.jpg" alt="Ярославль" class="hover-shadow cursor" style="width:100%" onclick="openModal();currentSlide(4)">
+  </div>
+</div>
+<!-- -->
+<br>
+<div class="row">
+  <div class="column">
+    <img src="voyage/yaroslavl/yaroslavl_5_0.jpg" alt="Ярославль" style="width:100%" onclick="openModal();currentSlide(5)" class="hover-shadow cursor">
+  </div>
+  <div class="column">
+    <img src="voyage/yaroslavl/yaroslavl_6_0.jpg" alt="Ярославль" style="width:100%" onclick="openModal();currentSlide(6)" class="hover-shadow cursor">
+  </div>
+  <div class="column">
+    <img src="voyage/yaroslavl/yaroslavl_7_0.jpg" alt="Ярославль" style="width:100%" onclick="openModal();currentSlide(7)" class="hover-shadow cursor">
+  </div>
+  <div class="column">
+    <img src="voyage/yaroslavl/yaroslavl_8_0.jpg" alt="Ярославль" style="width:100%" onclick="openModal();currentSlide(8)" class="hover-shadow cursor">
+  </div>
+</div>
+
+
+<div id="myModal" class="modal">
+  <span class="close cursor" onclick="closeModal()">&times;</span>
+  <div class="modal-content">
+
+    <div class="mySlides">
+      <div class="numbertext">1 из 8</div>
+      <img class="modal_big_foto" src="voyage/yaroslavl/yaroslavl_1.jpg"  alt="Ярославль" style="width:100%">
+    </div>
+
+    <div class="mySlides">
+      <div class="numbertext">2 из 8</div>
+      <img class="modal_big_foto" src="voyage/yaroslavl/yaroslavl_2.jpg"  alt="Ярославль"  style="width:100%">
+    </div>
+
+    <div class="mySlides">
+      <div class="numbertext">3 из 8</div>
+      <img class="modal_big_foto" src="voyage/yaroslavl/yaroslavl_3.jpg"  alt="Ярославль"  style="width:100%">
+    </div>
+    
+    <div class="mySlides">
+      <div class="numbertext">4 из 8</div>
+      <img class="modal_big_foto" src="voyage/yaroslavl/yaroslavl_4.jpg"  alt="Ярославль"  style="width:100%">
+    </div>
+    
+    <!-- -->
+       <div class="mySlides">
+      <div class="numbertext">5 из 8</div>
+      <img class="modal_big_foto" src="voyage/yaroslavl/yaroslavl_5.jpg"  alt="Ярославль"  style="width:100%">
+    </div>
+    
+        <div class="mySlides">
+      <div class="numbertext">6 из 8</div>
+      <img class="modal_big_foto" src="voyage/yaroslavl/yaroslavl_6.jpg"  alt="Ярославль"  style="width:100%">
+    </div>
+
+        <div class="mySlides">
+      <div class="numbertext">7 из 8</div>
+      <img class="modal_big_foto" src="voyage/yaroslavl/yaroslavl_7.jpg"  alt="Ярославль"  style="width:100%">
+    </div>
+
+        <div class="mySlides">
+      <div class="numbertext">8 из 8</div>
+      <img class="modal_big_foto" src="voyage/yaroslavl/yaroslavl_8.jpg"  alt="Ярославль"  style="width:100%">
+    </div> 
+    
+    
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+    <div class="caption-container">
+      <p id="caption"></p>
+    </div>
+
+
+    <div class="column">
+      <img class="demo cursor" src="voyage/yaroslavl/yaroslavl_1_0.jpg" style="width:100%" onclick="currentSlide(1)" alt="Ярославль, женский Толский монастырь">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="voyage/yaroslavl/yaroslavl_2_0.jpg" style="width:100%" onclick="currentSlide(2)" alt="Ярославль, женский Толский монастырь">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="voyage/yaroslavl/yaroslavl_3_0.jpg" style="width:100%" onclick="currentSlide(3)" alt="Ярославль, женский Толский монастырь">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="voyage/yaroslavl/yaroslavl_4_0.jpg" style="width:100%" onclick="currentSlide(4)" alt="Ярославль, женский Толский монастырь">
+    </div>
+    <br>
+        <div class="column">
+      <img class="demo cursor" src="voyage/yaroslavl/yaroslavl_5_0.jpg" style="width:100%" onclick="currentSlide(5)" alt="Ярославль, женский Толский монастырь">
+    </div>
+        <div class="column">
+      <img class="demo cursor" src="voyage/yaroslavl/yaroslavl_6_0.jpg" style="width:100%" onclick="currentSlide(6)" alt="Ярославль, женский Толский монастырь">
+    </div>
+        <div class="column">
+      <img class="demo cursor" src="voyage/yaroslavl/yaroslavl_7_0.jpg" style="width:100%" onclick="currentSlide(7)" alt="Ярославль, женский Толский монастырь">
+    </div>
+        <div class="column">
+      <img class="demo cursor" src="voyage/yaroslavl/yaroslavl_8_0.jpg" style="width:100%" onclick="currentSlide(8)" alt="Ярославль, женский Толский монастырь">
+    </div>
+  </div>
+</div>
+
+</section>			
+			
+ </main>
+
+<footer>
+		<section>
+		  <article>
+		    <nav>
+			
+			
+			</nav>
+		  
+		  </article>
+		         <article class="footer_link_top">
+		  		   <article class="footer_link">
+		  		  
+<div><a href="voyager.html" target="_blank" title="Смотреть видео поездок туритических">Видео</a></div>	
+<div><a href="" target="_blank" title="">Фотоальбомы</a></div>
+<div><a href="proftpd2000.livejournal.com" target="_blank" title="Перейти в мой блог на сайте LiveJournal">LiveJournal</a></div>
+<div><a href="https://www.youtube.com/c/PetrovRV2010/videos" target="_blank" title="Перейти в мой видео канал YouTube">YouTube</a></div>
+<div><a href="https://vk.com/petrorv" target="_blank" title="Перейти на мою социальную сраницу VK.COM ">VK.COM</a></div>		  
+		  
+		  </article>
+		  <!-- Вертикалная линия -->
+		  
+		  <div class="line">		  </div>
+		  
+		  		  		   <article class="footer_link">
+		  		  
+<div><a href="#" target="_blank" title="Антенны с разьемом BNC">Антенны BNC</a></div>	
+<div><a href="#" target="_blank" title="Антенны с разьемом SMA">Антенны SMA</a></div>
+<div><a href="#" target="_blank" title="Антенны с разьемом  TNC">Антенны TNC</a></div>
+<div><a href="#" target="_blank" title="Антенны для радиостанций 27 МГц ">Антенны 27 MHz</a></div>
+<div><a href="3" target="_blank" title="Антенны для радиостанций ICOM">ICOM</a></div>
+<div><a href="#" target="_blank" title=" Антенны для радиостанций Motorola">Motorola</a></div>	
+<div><a href="#" target="_blank" title=" Антенны для радиостанций Yaesu">Yaesu</a></div>	  
+		  
+		  </article>
+		 <div class="line">		  </div> 
+			  		  		   <article class="footer_link">
+		  		  
+<div><a href="#" target="_blank" title="Тангенты и гарнитуры для радиостанций Baofeng">Тангенты Baofeng</a></div>	
+<div><a href="#" target="_blank" title="Тангенты и гарнитуры для радиостанций  Kenwood">Тангенты Kenwood</a></div>
+<div><a href="#" target="_blank" title="Тангенты и гарнитуры для радиостанций Icom">Тангенты Icom</a></div>
+<div><a href="#" target="_blank" title="Тангенты и гарнитуры для радиостанций  Motorola">Тангенты Motorola</a></div>
+<div><a href="3" target="_blank" title="Тангенты и гарнитуры для радиостанций  Yaesu">Тангенты Yaesu</a></div>
+ 
+		  
+		  </article>	  
+		  </article>
+		  
+		  
+		   <article title="Моя контактная информация">
+		  <p>
+			  <h3>Контакты</h3>
+			  <li>8(905)-341-79-19</li>
+			  <li>proftpd@mail.ru</li>
+			  <li>Г. Москва, Проспект Вернадского, д.32. к.71</li>
+		 </p>
+		  </article>
+		  
+		  
+
+		
+		</section>
+
+		<section>
+		<p>
+		 © 2022  Дизайн разработал Петров Роман, <i>proftpd@mail.ru</i>  
+		</p>
+		</section>
+
+</footer>
+

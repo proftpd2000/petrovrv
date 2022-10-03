@@ -1,0 +1,89 @@
+/**********************************************
+          Index.html Header Адаптация меню 
+************************************************/
+
+@media screen and (max-width:950px) {
+
+nav.topmenu {
+width: 100vw;
+font-size: 14px;
+margin: 0px;
+padding: 1px; 
+display: flex;
+flex-direction: column;
+flex-wrap: wrap;
+
+    }
+.searschform {
+ width: 400px;
+    }
+    
+header  p.container {
+text-align: center;
+padding 0;
+    }
+}
+
+
+
+
+/****************************************************
+         MAIN  Адаптация SLider
+*****************************************************/
+@media screen and (max-width:750px) {
+    
+    main .slider  {
+      background-color: yellow;
+       width: 400px; 
+        
+        
+    }
+     
+    .slider_desk{
+      
+        width: 400px;
+        
+    }    
+}
+
+
+
+/***********************************************************
+АДАПТАЦИЯ КАТАЛОГА ПОУПУЛЯРНЫХ ТОВАРОВ FLEX BOX CARD CONTAINER
+************************************************************/
+
+@media screen and (min-width: 1280px) {
+
+    .main_catalog .container {
+
+   /*! background: linear-gradient(0deg, rgba(247,249,242,0.7455182756696428) 0%, rgba(195,232,208,1) 42%, rgba(233,204,142,1) 83%); *//*! background-color: yellow; */ 
+   justify-content: center;
+   gap:10px;
+    }
+   
+    
+}
+
+@media screen and (max-width: 810px) {
+
+   .main_catalog .container  {
+     background: linear-gradient(0deg, rgba(247,249,242,0.7455182756696428) 0%, rgba(215,201,163,1) 42%, rgba(233,204,142,1) 83%);
+     justify-content: center;
+   
+    }
+   
+    
+}
+
+@media screen and (max-width: 360px) {
+
+    .main_catalog .container  {
+    width: 350px; 
+    flex-direction: column;
+    background: linear-gradient(90deg, rgba(237,236,212,1) 8%, rgba(222,220,163,1) 12%, rgba(215,211,114,1) 15%, rgba(138,198,166,1) 37%, rgba(159,226,188,1) 61%, rgba(232,229,159,1) 100%);
+   
+   
+    }
+   
+    
+}

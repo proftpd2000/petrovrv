@@ -1,0 +1,77 @@
+@media screen and (max-width: 1050px) {
+
+main section:nth-child(2n+1) {
+margin: 0 auto;   /*По центру выравнивание блоков section */
+display: flex;
+flex-direction: row;
+/*justify-content: space-between; */
+flex-wrap: wrap;  
+gap: 10px;
+height: 100%;
+ width: 650px; /*****Ограничиваем ширину блока */  
+font-size: 1.2em;  
+  } 
+main section article:nth-child(3) img {
+width: 600px; 
+height: 300px;
+}   
+
+  /******************************************
+PAYPAL.HTML
+****************************************/
+
+  section.paypal div.card_3 li {
+font-size: 0.9em;
+margin: 2px;      
+ }
+
+  
+}
+
+/*********************************************
+    650 PX
+*********************************************/
+
+@media screen and (max-width: 650px) {
+
+main section:nth-child(2n+1) {
+width: 300px; /*****Ограничиваем ширину блока */  
+
+  } 
+ main section p {
+display: block;    
+margin: 0 auto;   
+  }
+ 
+/***********  Yandex Money ***********/
+div.card_1 iframe {
+width: 200px;
+  }
+  
+
+/************** FOOTER ********************/
+  div.line {
+  display: none;
+  }
+/******************************************
+  CONTACT.HTML
+****************************************/
+ main.map {
+margin:  auto;
+width: 360px;
+  }
+
+  main.map section.map:nth-child(1) {
+  margin-top: 40px;
+  }
+  
+main.map section.map:nth-child(1) div img.map {
+width: 360px;
+height: 180px;
+  }
+
+
+ main.map section.map div li {
+ font-size: 0.8em;
+  }  
+}

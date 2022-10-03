@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Тангенты и гарнитуры дл радиостанций, Москва  Проспект Вернадского, д.32/71">
+  <meta name="keywords" content="тангента baofeng uv 82, тангента uv 82,тангента vector, выносная тангента, тангента кенвуд, тангента uv 5r, тангента баофенг, тангента icom, тангента kenwood,распайка тангент, тангента motorola, тангента baofeng, тангента motorola, купить тангенту для рации">
+    <meta name="author" content="roman" >
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Тангенты и гарнитурры для радиостанций</title>
+     
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/style_tablet.css">   <!--Версия для планшетов  -->
+<link rel="stylesheet" href="css/style_mobile.css"> <!-- Версия для телефонов  -->
+<script src="js/jquery-3.6.0.min.js"></script>
+<script src="js/scripts.js"></script>
+<script src="js/main.js"></script>
+
+
+</head>
+<body>
+    <header>
+		<section class="img">
+		
+		</section>
+	
+        <section>
+            <p class="container">Интернет-магазин средств радиосвязи <b>"RK75" </b>..<span>  8(909)-911-94-94 </span> <span><a href="mailto:proftpd@mail.ru?subject=Вопрос по товару">  proftpd@mail.ru</a> </span> </p>
+        </section>
+        
+        <section class="mainhead">
+            <div class="container">
+                <a href="index.html" class="icon logo" title="Вернутся на главную"></a>
+                <div class="searschform" title="Поле для ввода искомого текста"></div>
+                <a href="#" class="icon login"></a>
+                <a href="order.html" class="icon order"></a>
+            </div>
+        </section>
+        
+        <section>
+            <nav class="topmenu container">
+                <a href="index.html" class="active" title="Вернутся на главную страницу">Главная</a>
+                <a href="catalog.html" title="Перейти в каталог товаров">Каталог</a>
+                <a href="order.html" title="Корзина">Корзина</a>
+                <a href="product.html" title="Доставка товара">Доставка</a>
+                <a href="paypal.html" title="Способы оплаты товара">Оплата</a>
+                <a href="return.html" title="Гарантия и  возврат товара">Возврат</a>
+                <a href="contacts.html" title="Контакная информация">Контакты</a>
+            </nav>
+        </section>
+    </header>
+       
+    <main>
+        <section class="catalog">
+            <div class="container">
+                <aside class="catmenu">
+                                        <div class="opener">КАТАЛОГ <span class="icon cat"></span></div>
+                    <nav class="accordeon">
+                            
+                        <li class="sub">
+                                <a href="#">АвтоРемонт</a>
+                                  
+                                      <ul>
+                      						   <li><a href="obd2.html" target="_blank" title="иагностические устройства ELM327">ELM327</a></li>
+                     						   <li><a href="obd2.html" target="_blank" title="Диагностические устройства VAG KKL">VAG KKL</a></li>
+                     						   <li><a href="obd2.html" target="_blank" title="Кабели - переходники на OBD2">Адаптеры OBD2</a></li>
+                  					  </ul>
+                  					  <hr>
+                  			 </li>
+                           
+                         <li class="sub">
+                            
+                                <a href="antenns.html">Антенны</a>
+                                <ul>
+                                    <li><a href="antenns.html" title="Антенны диапазона 27 МГц">27 МГц</a></li>
+                                    <li><a href="antenns.html" title="Антенны диапазона 130-520 МГц">144/430 МГц</a></li>
+                                    <li><a href="antenns.html" title="Антенны диапазона GSM для ретрансляторов ">GSM</a></li>
+                                    <li><a href="antenns.html" title="Антенны диапазона LTEдля ретрансляторов ">LTE</a></li>
+                                    <li><a href="antenns.html" title="Антенны для Wi0Fi роутеров ">Wi-fi</a></li>
+                                    
+                                    <hr>
+                                        <h4>По применению</h4>
+                                        <ul class="podklass">
+                                            <li><a href="antenns.html">Автомобильные</a></li>
+                                            <li><a href="antenns.html">Для носимых</a></li>
+                                            <li><a href="antenns.html">Базовые</a></li>
+                                        </ul>
+                                      
+                                    </li>
+                                   
+                    
+                        <hr> 
+                           
+                              <!--    -->
+                                   
+                       <li class="sub">
+                                <a href="#">Источники</a>
+                                  
+                                      <ul>
+                      						   <li><a href="ac_dc.html" target="_blank" title="Источники питания от сети 220В">AC/DC</a></li>
+                     						   <li><a href="dc_dc.html" target="_blank" title="Конвертеры напряжения">DC/DC</a></li>
+                  					  </ul>
+                  					  <hr>
+                  			 </li>
+                              <!--   -->
+                             
+                       <li class="sub">
+                                <a href="ant_adapter.html">Переходники</a>
+                                  
+                                      <ul>
+                      						   <li><a href="ant_adapter.html" target="_blank" title="Антенные переходники BNC">BNC</a></li>
+                     						   <li><a href="ant_adapter.html" target="_blank" title="Антенные переходники для радиостанций  Motorola">Motorola</a></li>
+                        						<li><a href="ant_adapter.html" target="_blank" title="Антенные переходники PL259">PL259</a></li>
+                        						<li><a href="ant_adapter.html" target="_blank" title="Антенные переходники SMA">SMA</a></li>
+                        						<li><a href="ant_adapter.html" target="_blank" title="Антенные переходники SO-231">SO-231</a></li>
+                        						<li><a href="ant_adapter.html" target="_blank" title="Антенные переходники TNC">TNC</a></li>
+                        
+                  					  </ul>
+                  					  <hr>
+                  				</li>   
+                  					  
+                       <li class="sub">
+                                <a href="radio_stations.html">Радиостанции</a>
+                                <ul>
+                                			<li><a href="radio_stations.html" target="_blank" title="Автомобилные радиостанции ">Автомобильные</a></li>
+                        					<li><a href="radio_stations.html" target="_blank" title="Базовые радиостанции">Базовые </a></li>
+                       						<li><a href="radio_stations.html" target="_blank" title="Носимые радиотанции ">Носимые</a></li>
+                                </ul>
+                                <hr>
+                       </li>                       
+                       <li class="sub">
+                                <a href="tangenta.html">Тангенты</a>
+                                <ul>
+                                          <li> <a href="tangenta.html" target="_blank" title="Тангенты и грнитуры для носимых и автомобильных радиостанций">Alan</a></li>
+                       							<li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Argut">Argut</a></li>
+                       							<li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Baofeng">Baofeng</a></li>
+                        						<li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций HYT">HYT</a></li>
+                        						<li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Icom">Icom</a></li>
+                        						<li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Kenwood">Kenwood</a></li>
+                        						<li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Midland">Midland</a></li>
+                        						<li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Megajet">Megajet</a></li>
+														<li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Motorola">Motorola</a></li>
+                        						<li><a href="tangenta.html" target="_blank" title="Тангенты для радиостанций Yeasu">Yeasu</a></li>
+
+                                </ul>
+                                <hr>
+                            </li>
+                            
+                            <li>
+                                <a href="#">Аккмуляторы</a>
+                            </li>
+                          
+                            <li>
+                                <a href="#">Аксессуары</a>
+                            </li>
+                            <hr> 
+                      <li class="sub">
+                                <a href="#">Радиолюбителю</a>
+                                <ul>
+                                    <li><h4>Паяльники</h4></li>
+                                    <li><h4>Программаторы</h4></li>
+                                      <ul>
+                                       	<li><a href="programmers.html" title="Программаторы для микроконтроллеров ARM">ARM</a></li>
+														<li><a href="programmers.html" title="Программаторы для микроконтроллеров AVR">AVR</a></li>
+                                       	<li><a href="programmers.html" title="Программаторы для микроконтроллеров PIC">PIC</a></li>
+														<li><a href="programmers.html" title="Программаторы для радиостанций">Для радиостанций</a></li>
+                                     
+                                      </ul>
+                                  </ul>
+                            </li>
+                            <hr> 
+                      <li class="sub">
+                                <a href="#">Индикаторы</a>
+                                <ul>
+                                    <li><a href="led_indicator.html" target="_blank" title="Цифровые и аналоговые вольтметры">Вольтметры</a></li>
+                                    <li><a href="led_indicator.html" target="_blank" title="Цифровые и аналоговые амперметры">Амперметры</a></li>
+                                    <li><a href="led_indicator.html" target="_blank" title="Цифровые ватметры">Ваттметры</a></li>
+                                    <li><a href="thermometr.html" target="_blank" title="Цифровые и аналоговые термометры и индикаторы влажности">Гигрометры</a></li>
+                                    <li><a href="thermometr.html" target="_blank" title="Цифровые и аналоговые термометры и индикаторы влажности">Термометры</a></li>
+                                  </ul>
+                            </li>
+                            
+        				  </nav>
+                </aside>
+          <!--               КАТАЛОГ ТОВАРОВ -->      
+                <article>
+                    <h2>Каталог товаров</h2>
+<!--Радиостанции автомобильные -->  
+<div class="color_1">
+1. Все тангенты и гарнитуры  проверяются, дополнительная проверка на вашей радиостанции.<br>
+2. Гарантия на обмен 12 месяцев при отсутствии внешних механических.<br>
+3. Возможно изготовление тангенты или гарнитуры под модель вашей радиостанции -от 20$.<br>
+4. Если не нашли нужную модель, то  напишите на <a href="mailto:proftpd@mail.ru?subject=Тангенты и гарнитуры&body=Ищу тангенту для радиостанции">почту.</a><br>
+
+</div>  
+ <h3> Тангенты и гарнитуры для Baofeng, Kenwood </h3>                  
+           <div class="item-desk">
+          
+      <!-- Тангенты для радиостанций Baofeng, Kenwood и прочие -->    
+                   
+								<div class="item">
+                            <h3>Kenwood</h3>
+                            <img src="images/radio_shop/tangenta/baofeng/-131390714-988576218.jpg"  alt="Тангента для носимой радиостанции">
+                            <p>Микрофон+динамик, разьем 3.5мм для наушников.</p>
+                         <a href="#">  <button type="button">890.00</button></a>
+                        </div>
+                        <div class="item">
+                            <h3>Kenwood</h3>
+                            <img src="images/radio_shop/tangenta/baofeng/-1362440699-1292903588.jpg"  alt="Тангента для носимой радиостанции">
+                            <p>Микрофон+динамик, разьем 3.5мм для наушников.</p>
+                         <a href="#">  <button type="button">590.00</button></a>
+                        </div>
+                        
+                          <div class="item">
+                            <h3>Kenwood</h3>
+                            <img src="images/radio_shop/tangenta/baofeng/-1362440699-1292903588.jpg"  alt="Тангента для носимой радиостанции">
+                            <p>Copy с обломанными держателями</p>
+                         <a href="#">  <button type="button">390.00</button></a>
+                        </div>
+                        
+                        <div class="item">
+                            <h3>Baofeng UV82</h3>
+                            <img src="images/radio_shop/tangenta/baofeng/-226781961596580128.jpg"  alt="Тангента для носимой радиостанции">
+                            <p>Микрофон+динамик, разьем 3.5мм для наушников.</p>
+                         <a href="#">  <button type="button">790.00</button></a>
+                        </div>
+                            <div class="item">
+                            <h3>Baofeng</h3>
+                            <img src="images/radio_shop/tangenta/baofeng/-2132352632-1562214783.jpg"  alt="Тангента для носимой радиостанции">
+                            <p>Микрофон+динамик, разьем 3.5мм для наушников.</p>
+                         <a href="#">  <button type="button">690.00</button></a>
+                        </div>   
+                        
+                          <div class="item">
+                            <h3>Baofeng</h3>
+                            <img src="images/radio_shop/tangenta/baofeng/-2132352632-1562214783.jpg"  alt="Тангента для носимой радиостанции">
+                            <p>Copy низкого качества.</p>
+                         <a href="#">  <button type="button">530.00</button></a>
+                        </div> 
+                           <div class="item">
+                             <h3>Головная</h3>
+                             <img src="images/radio_shop/tangenta/baofeng/garnitura/-710443582-1210545940.jpg"  alt="Головная гарнитура">
+                             <p>Гарнитура  с микрофоном.</p>
+                             <a href="#">  <button type="button">490.00</button></a>
+                           </div> 
+                           <div class="item">
+                             <h3></h3>
+                             <img src="images/radio_shop/tangenta/baofeng/garnitura/-961048109-832782462.jpg" alt="Гарнитура">
+                             <p>Гарнитура  с микрофоном.</p>
+                             <a href="#">  <button type="button">240.00</button></a>
+                           </div> 
+                           <div class="item">
+                             <h3></h3>
+                             <img src="images/radio_shop/tangenta/baofeng/garnitura/-276297648164840775.jpg"  alt="Гарнитура">
+                             <p>Гарнитура  с микрофоном.</p>
+                             <a href="#">  <button type="button">560.00</button></a>
+                           </div> 
+                           <div class="item">
+                             <h3></h3>
+                             <img src="images/radio_shop/tangenta/baofeng/garnitura/1828002351-1849210498.jpg"  alt="Гарнитура">
+                             <p>Гарнитура с нейлоновым проводом</p>
+                             <a href="#">  <button type="button">270.00</button></a>
+                           </div> 
+                           <div class="item">
+                             <h3></h3>
+                             <img src="images/radio_shop/tangenta/baofeng/garnitura/10460146711925212584.jpg"  alt="Гарнитура с воздуховодом">
+                             <p>Гарнитура  с воздуховодом.</p>
+                             <a href="#">  <button type="button">490.00</button></a>
+                           </div> 
+                           <div class="item">
+                             <h3></h3>
+                             <img src="images/radio_shop/tangenta/baofeng/garnitura/-6360281561980636411.jpg" alt="Гарнитура ларингофон">
+                             <p>Гарнитура-ларингофон.</p>
+                             <a href="#">  <button type="button">530.00</button></a>
+                           </div> 
+                           <div class="item">
+                             <h3></h3>
+                             <img src="images/radio_shop/tangenta/baofeng/garnitura/664730444112912300.jpg"  alt="Гарнитура-ларингофон">
+                             <p>Гарнитура-ларингофон.</p>
+                             <a href="#">  <button type="button">1690.00</button></a>
+                           </div> 
+                     </div>
+                  
+                              <!-- Тангенты для радиостанций Icom -->
+ <h3> Тангенты и гарнитуры для Icom </h3>                  
+           <div class="item-desk"> 
+           
+                       <div class="item">
+                      <h3>8 pin HM-36</h3>
+                            <img src="images/radio_shop/tangenta/icom/1416470328139038543.jpg"  alt="Тангента для радиостанции Icom">
+                            <p> IC-718 IC-775 IC-7200 IC-7600 IC-25 IC-28 IC-38  </p>
+                         <a href="#">  <button type="button">1370.00</button></a>
+                        </div> 
+                          <div class="item">
+                          <h3></h3>
+                            <img src="images/radio_shop/tangenta/yaesu/-1186401438-1212803806.jpg"  alt="Тангента для радиостанции Icom">
+                            <p> FT-10R, FT-40R, FT-50R, FT-60R, FT-250R, VX-10, VX-110, VX-130 </p>
+                         <a href="#">  <button type="button">970.00</button></a>
+                        </div> 
+                        <div class="item">
+                          <h3>Icom, Maxon, Vertex</h3>
+                            <img src="images/radio_shop/tangenta/icom/garnitura/-78331812-1818678685.jpg"  alt="Гарнитура для радиостанции Icom">
+                            <p> IC-F3, IC-F3S, IC-F4, IC-F4S, IC-F4SR, IC-F4TR, IC-F10, IC-F20 </p>
+                         <a href="#">  <button type="button">540.00</button></a>
+                        </div> 
+                          <div class="item">
+                          <h3>Icom, Maxon, Vertex</h3>
+                            <img src="images/radio_shop/tangenta/icom/garnitura/-1304138978-895101659.jpg"  alt="Гарнитура для радиостанции Icom">
+                            <p> IC-F3, IC-F3S, IC-F4, IC-F4S, IC-F4SR, IC-F4TR, IC-F10, IC-F20 </p>
+                         <a href="#">  <button type="button">390.00</button></a>
+                        </div> 
+                          <div class="item">
+                          <h3>Icom, Maxon, Vertex</h3>
+                            <img src="images/radio_shop/tangenta/icom/garnitura/-2056681846-1677725053.jpg"  alt="Гарнитура для радиостанции Icom">
+                            <p> IC-F3, IC-F3S, IC-F4, IC-F4S, IC-F4SR, IC-F4TR, IC-F10, IC-F20 </p>
+                         <a href="#">  <button type="button">540.00</button></a>
+                        </div> 
+                        
+                          <div class="item">
+                          <h3>Icom</h3>
+                            <img src="images/radio_shop/tangenta/icom/garnitura/-1745523891381037824.jpg" alt="Гарнитура для радиостанции Icom">
+                            <p> IC-F3, IC-F3S, IC-F4, IC-F4S, IC-F4SR, IC-F4TR, IC-F10, IC-F20 </p>
+                         <a href="#">  <button type="button">690.00</button></a>
+                        </div> 
+                        
+                          <div class="item">
+                          <h3>Icom</h3>
+                            <img src="images/radio_shop/tangenta/icom/garnitura/569468562-499112161.jpg" width="960" height="960" alt="Гарнитура для радиостанции Icom">
+                            <p> FT-10R, FT-40R, FT-50R, FT-60R, FT-250R, VX-10, VX-110, VX-130 </p>
+                         <a href="#">  <button type="button">690.00</button></a>
+                        </div> 
+                        
+                             <div class="item">
+                          <h3>Icom, Maxon, Vertex</h3>
+                            <img src="images/radio_shop/tangenta/icom/garnitura/-78331812-1818678685.jpg"  alt="Гарнитура для радиостанции Icom">
+                            <p> IC-F3,  IC-F4, IC-F10, IC-F11, IC-F14, IC-F14S, IC-F20, IC-F21 IC-F3021, IC-4021</p>
+                         <a href="#">  <button type="button">490.00</button></a>
+                        </div> 
+                        
+                        <div class="item">
+                          <h3>Наушник</h3>
+                            <img src="images/radio_shop/tangenta/icom/garnitura/1038670898-1451436444.jpg" width="960" height="960" alt="Гарнитура для радиостанции Icom">
+                            <p>2 pin 3.5mm</p>
+                         <a href="#">  <button type="button">690.00</button></a>
+                        </div> 
+                        
+                     </div>
+                     
+                      <h3> Тангенты и гарнитуры для Baofeng, Kenwood </h3>                  
+           <div class="item-desk">
+          
+      <!-- Тангенты для радиостанций Midland -->    
+                   
+								<div class="item">
+                            <h3>G, GXT, LXT, XT</h3>
+                            <img src="images/radio_shop/tangenta/midland/-122327971-1436998287.jpg" alt="Гарнитура для носимой радиостанции Midland G5, G6, G7, G8, G9, G10, G12,T18, XT20, GXT255, GXT250, GXT400, GXT444, GXT450, GXT500, GXT300, GXT325, GXT550, GXT555, GXT565, GXT600, GXT635, t661, GXT700, GXT710, GXT735, GXT750, GXT771">
+                            <p>G5, G6, G7, G8, G9, G10, G12</p>
+                         <a href="#">  <button type="button">590.00</button></a>
+                        </div>
+                        		<div class="item">
+                            <h3>G, GXT, LXT, XT</h3>
+                            <img src="images/radio_shop/tangenta/midland/-1591179610-413429987.jpg" alt="Гарнитура для носимой радиостанции Midland G5, G6, G7, G8, G9, G10, G12,T18, XT20, GXT255, GXT250, GXT400, GXT444, GXT450, GXT500, GXT300, GXT325, GXT550, GXT555, GXT565, GXT600, GXT635, t661, GXT700, GXT710, GXT735, GXT750, GXT771">
+                            <p>G5, G6, G7, G8, G9, G10, G12</p>
+                         <a href="#">  <button type="button">590.00</button></a>
+                        </div>
+                        		<div class="item">
+                            <h3>G, GXT, LXT, XT</h3>
+                            <img src="images/radio_shop/tangenta/midland/-296664418878134210.jpg"  alt="Гарнитура для носимой радиостанции Midland G5, G6, G7, G8, G9, G10, G12,T18, XT20, GXT255, GXT250, GXT400, GXT444, GXT450, GXT500, GXT300, GXT325, GXT550, GXT555, GXT565, GXT600, GXT635, t661, GXT700, GXT710, GXT735, GXT750, GXT771">
+                            <p>G5, G6, G7, G8, G9, G10, G12</p>
+                         <a href="#">  <button type="button">440.00</button></a>
+                        </div>
+                        		<div class="item">
+                            <h3>G, GXT, LXT, XT</h3>
+                            <img src="images/radio_shop/tangenta/midland/-1210501591941426552.jpg"   alt="Гарнитура для носимой радиостанции Midland G5, G6, G7, G8, G9, G10, G12,T18, XT20, GXT255, GXT250, GXT400, GXT444, GXT450, GXT500, GXT300, GXT325, GXT550, GXT555, GXT565, GXT600, GXT635, t661, GXT700, GXT710, GXT735, GXT750, GXT771">
+                            <p>G5, G6, G7, G8, G9, G10, G12</p>
+                         <a href="#">  <button type="button">890.00</button></a>
+                        </div>
+                        
+                        
+                   </div>     
+                        
+                                <!-- Тангенты для радиостанций Motorola -->
+ <h3> Тангенты и гарнитуры для Motorola </h3>                  
+           <div class="item-desk">                     
+      <div class="item">
+                            <h3>Аудиопереходник</h3>
+                            <img src="images/radio_shop/tangenta/motorola/-642669587-1573063437.jpg"  alt="Аудиопереходник на стандартную гарнитуру для радиостанции Motorola">
+                            <p>На стандартные гарнитуры и тангенты.</p>
+                         <a href="#">  <button type="button">690.00</button></a>
+                        </div> 
+                          <div class="item">
+                      <h3>GP, HT, MTX, PRO</h3>
+                            <img src="images/radio_shop/tangenta/motorola/-1059415409-1821071853.jpg"  alt="Тангента для радиостанции Motorola GP4340">
+                            <p>  GP320, GP328, GP329, GP338, GP339, GP340, GP360, GP380, GP640</p>
+                         <a href="#">  <button type="button">1390.00</button></a>
+                        </div> 
+                        
+                              <div class="item">
+                      <h3>CP, P, PRO, XTN</h3>
+                            <img src="images/radio_shop/tangenta/motorola/-1946500936-1282799977.jpg"  alt="Тангента для радиостанции Motorola GP4340">
+                            <p>  CP040, CP140, CP160, CP180</p>
+                         <a href="#">  <button type="button">630.00</button></a>
+                        </div> 
+                        
+                           <div class="item">
+                      <h3>GM, PM, PRO, MC</h3>
+                            <img src="images/radio_shop/tangenta/motorola/761363846554635018.jpg"  alt="Тангента для радиостанции Motorola GP4340">
+                            <p>GM140, GM160, GM300, GM340, GM350, GM360</p>
+                         <a href="#">  <button type="button">1270.00</button></a>
+                        </div> 
+                        
+                            <div class="item">
+                      <h3>GM, PM, PRO, MC</h3>
+                            <img src="images/radio_shop/tangenta/motorola/1801854779-1130107986.jpg" alt="Тангента для радиостанции Motorola GP4340">
+                            <p>GM140, GM160, GM300, GM340, GM350, GM360</p>
+                         <a href="#">  <button type="button">1870.00</button></a>
+                        </div> 
+                        
+                               <div class="item">
+                      <h3>GM, PM, PRO, MC</h3>
+                            <img src="images/radio_shop/tangenta/motorola/-55899320033880837.jpg"  alt="Тангента для радиостанции Motorola GP4340">
+                            <p>GM140, GM160, GM300, GM340, GM350, GM360</p>
+                         <a href="#">  <button type="button">1390.00</button></a>
+                        </div> 
+                           <div class="item">
+                      <h3>Наушник</h3>
+                            <img src="images/radio_shop/tangenta/motorola/1038670898-1451436444.jpg" alt="Тангента для радиостанции Motorola GP4340">
+                            <p>2 выв, 3.5 мм.</p>
+                         <a href="#">  <button type="button">370.00</button></a>
+                        </div>
+                              <div class="item">
+                      <h3>Наушник</h3>
+                            <img src="images/radio_shop/tangenta/motorola/-534979654138217205.jpg"  alt="Гарнитура для радиостанции Motorola GP4340">
+                            <p>2 выв, 3.5 мм.</p>
+                         <a href="#">  <button type="button">370.00</button></a>
+                        </div>
+                                 <div class="item">
+                      <h3>CP, P, PRO, XTN</h3>
+                            <img src="images/radio_shop/tangenta/motorola/-2072422178-1810703355.jpg"  alt="Гарнитура для радиостанции Motorola GP4340">
+                            <p>  CP040, CP140, CP160, CP180</p>
+                         <a href="#">  <button type="button">470.00</button></a>
+                        </div> 
+                       
+                     
+                     </div>  
+                                        <!-- Тангенты для радиостанций Yaesu -->
+ <h3> Тангенты и гарнитуры для Yaesu </h3>                  
+           <div class="item-desk"> 
+           
+                       <div class="item">
+                      <h3>VX-3r VX5r</h3>
+                            <img src="images/radio_shop/tangenta/yaesu/-1240033221-929033400.jpg"  alt="Тангента для радиостанции Yaesu">
+                            <p>FT-60r VX-3r VX5r VX2r VX150 VX-2r FT-60 FT1DR FT2DR  </p>
+                         <a href="#">  <button type="button">970.00</button></a>
+                        </div> 
+                      
+                       <div class="item">
+                       <h3>VX-6R VX-7R</h3>
+                            <img src="images/radio_shop/tangenta/yaesu/-1706857227-46506206.jpg"  alt="Тангента для радиостанции Yaesu">
+                            <p> VX-6R VX-7R VX6R VX7R FT-270 FT-270R VX-127 VX-170 </p>
+                         <a href="#">  <button type="button">740.00</button></a>
+                        </div> 
+                        
+                        <div class="item">
+                       <h3>VX-6R VX-7R</h3>
+                            <img src="images/radio_shop/tangenta/yaesu/-10311313912055690762.jpg"  alt="Тангента для радиостанции Yaesu">
+                            <p> VX-6R VX-7R VX6R VX7R FT-270 FT-270R VX-127 VX-170 </p>
+                         <a href="#">  <button type="button">870.00</button></a>
+                        </div> 
+                          <div class="item">
+                            <h3>FT, VX</h3>
+                            <img src="images/radio_shop/tangenta/yaesu/-2141063617487140606.jpg"  alt="Гарнитура для радиостанции Yaesu">
+                            <p> FT-10R, FT-40R, FT-50R, FT-60R, FT-250R, VX-10, VX-110, VX-130, VX-131 </p>
+                            <a href="#">  <button type="button">590.00</button></a>
+                        </div> 
+                            <div class="item">
+                            <h3>FT, VX</h3>
+                            <img src="images/radio_shop/tangenta/yaesu/-13155190661888864625.jpg"  alt="Гарнитура для радиостанции Yaesu">
+                            <p> FT-10R, FT-40R, FT-50R, FT-60R, FT-250R, VX-10, VX-110, VX-130, VX-131 </p>
+                            <a href="#">  <button type="button">590.00</button></a>
+                        </div> 
+                              <div class="item">
+                            <h3>FT, VX</h3>
+                            <img src="images/radio_shop/tangenta/yaesu/1808103309-1734249146.jpg" width="800" height="800" alt="Гарнитура для радиостанции Yaesu">
+                            <p> FT-10R, FT-40R, FT-50R, FT-60R, FT-250R, VX-10, VX-110, VX-130, VX-131 </p>
+                            <a href="#">  <button type="button">490.00</button></a>
+                        </div> 
+                        
+                     </div> 
+                       
+                </article>
+            </div>
+        </section>
+    </main>
+    
+    
+    <footer>
+        <section>
+            <div class="container">
+                <nav class="footermenu">
+							<ul>
+                        <h3 title="Каталог антенн для базовых, автомобильных и носимых радиостанций">АНТЕННЫ</h3>
+                        <li><a href="antenns_bnc.html" target="_blank" title="Антенны с типом разьема BNC">BNC</a></li>
+                        <li><a href="antenns_sma.html" target="_blank" title="Антенны с типом разьема SMA">SMA</a></li>
+                        <li><a href="antenns_motorola.html" target="_blank" title="Антенны для радиостанций Motorola">Motorola</a></li>
+                        <li><a href="antenns_yaesu.html" target="_blank" title="Антенны для радиостанций Yeasu">Yeasu</a></li>
+                        <hr>
+                        
+                        <li><a href="antenns_2m_70sm.html" target="_blank" title="Антенны диапазона 144 МГц и 430 МГц.">144/430 МГц</a></li>
+                        <li><a href="antenns_900mhz.html" target="_blank" title="Антенны диапазона 900 МГц.">900 МГц</a></li>
+                        <li><a href="antenns_900_1800mhz.html" target="_blank" title="Антенны диапазона 900 МГц и 1800 МГц.">900/1800 МГц</a></li>
+                        <li><a href="antenns_lte.html" target="_blank" title="Антенны диапазона LTE">LTE</a></li>
+                    </ul>                    
+							<ul>
+                        <h3 title="Каталог программаторов для базовых, автомобильных и носимых радиостанций">ПРОГРАММАТОРЫ</h3>
+                        <li><a href="prog_baofeng.html" target="_blank" title="Программаторы для радиостанций Baofeng">Baofeng</a></li>
+                        <li><a href="prog_icom.html" target="_blank" title="Программаторы для радиостанций Icom">Icom</a></li>
+                        <li><a href="prog_kenwood.html" target="_blank" title="Программаторы для радиостанций Kenwood">Kenwood</a></li>
+                       	<li><a href="prog_motorola.html" target="_blank" title="Программаторы для радиостанций Motorola">Motorola</a></li>
+                        <li><a href="prog_yaesu.html" target="_blank" title="Программаторы для радиостанций Yeasu">Yeasu</a></li>
+                        
+                    </ul>
+                     <ul>
+                        <h3 title="Каталог высокочастотынх антенных разьемов и переходников для   радиостанций">ПЕРЕХОДНИКИ</h3>
+                        <li><a href="ant_adapter_bnc.html" target="_blank" title="Антенные переходники BNC">BNC</a></li>
+                        <li><a href="ant_adapter_motorola.html" target="_blank" title="Антенные переходники для радиостанций  Motorola">Motorola</a></li>
+                        <li><a href="ant_adapter_pl259.html" target="_blank" title="Антенные переходники PL259">PL259</a></li>
+                        <li><a href="ant_adapter_sma.html" target="_blank" title="Антенные переходники SMA">SMA</a></li>
+                        <li><a href="ant_adapter_so231.html" target="_blank" title="Антенные переходники SO-231">SO-231</a></li>
+                        <li><a href="ant_adapter_tnc.html" target="_blank" title="Антенные переходники TNC">TNC</a></li>
+                        
+                    </ul>
+					    <ul>
+                        <h3 title="Каталог базовых, автомобильных и носимых радиостанций">РАДИОСТАНЦИИ</h3>
+								<li><a href="price_radio_car.html" target="_blank" title="Автомобилные радиостанции ">Автомобильные</a></li>
+                        <li><a href="price_radio_base.html" target="_blank" title="Базовые радиостанции">Базовые </a></li>
+                        <li><a href="price_radio_mobile.html" target="_blank" title="Носимые радиотанции ">Носимые</a></li>
+                        
+                      
+                        
+                    </ul>
+                    <ul>
+                        <h3 title="Каталог тангент для базовых, автомобильных и носимых радиостанций">ТАНГЕНТЫ</h3>
+                        <li><a href="tang_alan.html" target="_blank" title="Тангенты для радиостанций Alan">Alan</a></li>
+                        <li><a href="tang_argut.html" target="_blank" title="Тангенты для радиостанций Argut">Argut</a></li>
+                        <li><a href="tang_baofeng.html" target="_blank" title="Тангенты для радиостанций Baofeng">Baofeng</a></li>
+                        <li><a href="tang_hyt.html" target="_blank" title="Тангенты для радиостанций HYT">HYT</a></li>
+                        <li><a href="tang_icom.html" target="_blank" title="Тангенты для радиостанций Icom">Icom</a></li>
+                        <li><a href="tang_kenwood.html" target="_blank" title="Тангенты для радиостанций Kenwood">Kenwood</a></li>
+                        <li><a href="tang_midland.html" target="_blank" title="Тангенты для радиостанций Midland">Midland</a></li>
+                        <li><a href="tang_megejet.html" target="_blank" title="Тангенты для радиостанций Megajet">Megajet</a></li>
+								<li><a href="tang_motorola" target="_blank" title="Тангенты для радиостанций Motorola">Motorola</a></li>
+                        <li><a href="tang_yaesu" target="_blank" title="Тангенты для радиостанций Yeasu">Yeasu</a></li>
+                        
+                    </ul>
+                    
+                </nav>
+            </div>
+        </section>
+		
+		<!--  FLOOR 2 -->
+         <section>
+            <div class="container">
+                <nav class="footermenu">
+						<ul>
+							<h3 title="">Покупателям</h3>
+							<li><a href="#" target="_blank" title="Как заказат товар">Заказ</a></li>
+							<li><a href="#" target="_blank" title="Доставка товара">Доставка</a></li>
+							<li><a href="pay.html" target="_blank" title="Способы оплаты товара">Оплата</a></li>
+							<li><a href="#" target="_blank" title="Гаранти и возврат товара">Возврат</a></li>
+											
+						</ul>
+						
+						<ul>
+							<h3 title="">Компания</h3>
+							<li><a href="#" target="_blank" title="О нас">О нас</a></li>
+							<li><a href="contacts.html" target="_blank" title="Адрес компании">Контакты</a></li>
+						</ul>
+						
+						<ul>
+							<h3 title="Мы в социальных сетях">СоцСети</h3>
+							<li><a href="#" target="_blank" title="Мы в социалной сети Однокласники">Однокланики</a></li>
+							<li><a href="#" target="_blank" title="Мы в Instagram">Instagram</a></li>
+							<li><a href="#" target="_blank" title="Мы в социалной сети FaceBook">FaceBook</a></li>
+							<li><a href="#" target="_blank" title="Мы в Telegram">Telegram</a></li>
+							<li><a href="#" target="_blank" title="Мы в социалной сети ВКОНТАКТЕ">VK.COM</a></li>
+							<li><a href="#" target="_blank" title="АМы на хостинге YpuTube ">Youtube</a></li>
+						</ul>
+                   
+                                            
+                    
+				</nav>
+			</div>
+		 </section>		
+	
+		
+        <section>
+            <div class="container">
+                <p class="copy">© @ 2022 PROFTPD2022, Petrov Roman, proftpd@maill.ru.</p>
+            </div>
+        </section>
+    </footer>
+
+</body>
+</html><a href="#">

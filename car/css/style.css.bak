@@ -1,0 +1,210 @@
+body {
+/*! margin: 0 auto; */
+/*! padding: 0; */
+/*! height: 100vh; */
+/*! border: 1px solid #4158d5; */
+
+}
+
+/*************************************
+    HEADER
+*************************************/
+.img {
+transform: scaleX(-1);
+background-image: url('../img/delphi_ds100_2.jpg');
+background-size: 100%;
+background-repeat: no-repeat;
+height: 20vw;
+width: 100vw;
+}
+
+.link nav {
+margin-top: -15px;
+margin-right: 20px;
+text-align: right;
+padding: 2px;
+}
+
+nav a {
+padding: 3px 5px;
+background-color: #fdffef;
+border-radius: 5px;
+border: 1px solid black;
+text-decoration: none;
+}
+
+nav a:hover {
+
+color: #f2e050;
+background-color: #2e2e26;
+}
+/*************************************
+       MAIN
+*************************************/
+main {
+height: 80vh;
+
+}
+
+div.block  {
+display: flex;
+flex-direction: row;
+justify-content: center;
+
+gap:5px;
+}
+
+main .block aside {
+margin: 10px;
+padding: 10px;
+}
+
+main aside:nth-child(1){
+background-color: #f4f4f4;
+width: 50vw; 
+box-shadow: 7px 7px 2px 1px rgba(168, 179, 117, 0.2);
+border: 1px solid #6b2626;
+border-radius: 10px;
+}
+
+main aside:nth-child(2){
+background-color: #f2f2f2;
+width: 50vw; 
+box-shadow: 5px 5px 2px 1px rgba(80, 87, 55, 0.2);
+border: 1px solid #6768cf;
+border-radius: 10px;
+}
+aside p {
+  
+}
+li {
+display: block ; /* Отменяет действие тега LI */
+
+}
+
+
+main aside h3 {
+color:#0b439b; 
+text-shadow: 2px 2px 2px #c97373;
+}
+/*************************************
+                         VIDEO
+**************************************/
+.block_2  {
+display: flex;
+flex-direction: row;
+gap: 5px;
+  
+}
+
+.block_2 .container {
+margin-top: 20px;
+ width: 200px;
+height: 350px;
+ flex-grow: 1;
+ flex-direction: column;  
+
+}
+
+.block_2 .container  h3 {
+color:#0b439b; 
+text-shadow: 2px 2px 2px #c97373;   
+ text-align: center
+}
+/**********  FOTO  ***********/
+.block_2 .container div:nth-child(1) {
+ 
+margin: 0 auto;
+padding-left: 5px;
+width: 200px;
+height:150px;
+}
+
+.block_2 img {
+border: 1px solid blue;
+border-radius: 10px;     
+filter: sepia(0.8);:        
+}
+.block_2 img:hover {
+filter: sepia(0);
+transform: scale(1.1) ;    
+}
+/**********  TEXT  ***********/
+.block_2 .container div:nth-child(3) {
+margin: 5px;;
+padding-left: 5px;
+overflow-wrap: break-word;
+color: brown;
+}
+/*************************************
+                            MAP
+**************************************/
+.map div {
+margin: 10px 10px;
+color: blue;
+
+}
+
+main .map {
+height: 330px;   
+   
+}
+
+main iframe {
+width: 100vw;         
+}
+
+/*************************************
+       FOOTER
+*************************************/
+footer {
+height: 100px;
+
+}
+
+.footer aside:nth-child(1) {
+padding: 10px;
+background-color:  #b7a073;
+width: 100vw;
+text-align: center;
+}
+
+.footer aside:nth-child(2) {
+width: 100vw;
+padding: 1px 5px 1px 5px;
+
+}
+
+
+
+/****************************************
+адаптивный дизайн
+***************************************/
+@media screen and (max-width: 375px) {
+       body {
+            
+       }
+       main {
+height: 150vh;
+       }
+main .block {
+flex-direction: column; 
+align-items: center;
+
+    }   
+ main .block aside {
+ width: 250px;
+ }
+
+       
+       
+.block_2 {
+flex-direction: column;
+align-items: center;
+       
+       }       
+}
+
+
+
+

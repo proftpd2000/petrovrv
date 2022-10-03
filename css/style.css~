@@ -1,0 +1,251 @@
+html{
+width: 100%;  
+height: 100%;  
+}
+body {
+width: 100%;  
+font-size: 16px;  
+background: linear-gradient(to right, rgba(249,255,233,1) 0%,rgba(213,236,182,1) 43%);   
+margin: 0 auto; /*Выравнивание содержимого в body по центру */
+}
+
+header {
+/*background-color: red; */
+height: 180px;  
+  
+}
+/****************  FOTO RADIO ************/
+header div:nth-child(1) {
+background-color: red;
+height: 140px; 
+background-image: url('../img/index/yaesu_sm500_0.jpg') ;
+background-repeat: no-repeat;
+background-size: cover; 
+}
+
+
+/****************  MY FOTO************/
+header div:nth-child(2) {
+/*! background-color: green; */
+height: 100px;
+width: 100px;  
+background-image: url('../img/index/roman_667_1000px_0.jpg') ;
+background-repeat: no-repeat;
+background-size: 100%; 
+border: 1px solid #c3cad2;
+border-radius: 50%;
+position: relative;
+top: -130px;
+left: 5px;  
+}
+
+
+/********************   MENU LINK  ******/
+header div nav {
+text-align: center;  
+position: relative;
+top: -100px;  
+}
+
+nav a {
+background-color: #f4efef;  
+margin: 0 4px;;
+padding: 3px; 
+border-radius: 5px;
+border: 1px solid blue; 
+line-height: 30px;  
+color: #590a0a;
+text-decoration: none;  
+}
+
+nav a:hover {
+background-color: #38352c;  
+color: #dfe1ec;  
+}
+
+/***************   Выпадающее меню ********************/
+
+.link {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+
+.link_box {
+    position: relative;
+    display: inline-block;
+}
+
+.link_column {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.link_column a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.link_column a:hover {background-color: #ddd;}
+
+.link_box:hover .link_column {display: block;}
+
+.link_box:hover .link {background-color: #3e8e41;}
+
+
+
+
+/******************  MAIN **********/
+main {
+height: 100%;  
+}
+
+/*****************  ТЕКСТОВЫЕ БЛОКИ *************/
+main section:nth-child(1) {
+display: flex;
+justify-content: center;
+gap: 10px;
+/*! background-color: red; */
+margin-left: 10px;
+margin-right: 10px;  
+height: 400px;
+/*! border: 1px dashed #241e1e; */
+/*! border-radius: 10px; */
+}
+
+
+main section article {
+
+width:100%;
+height: 100%;  
+/*! background-color: green; */
+color: #2f2323;
+border: 2px outset #42d467; 
+border-radius: 10px;  
+}
+
+main section article li  {
+display: block;  
+margin: 0 10px 0 10px;
+}
+
+main section article li:before  {
+content: '\2714 \00A0 \00A0';
+color: blue;  
+}
+
+/********* Оформление стилей ссылок в блоке article  ******/
+main section article a {
+text-decoration: none;
+color: #274ee6;  
+}
+
+main section article a:hover {
+text-decoration: none;
+color: #ebebf0;  
+background-color: #4a4a41;
+padding: 1px; 
+border: 1px solid black;
+border-radius: 2px;  
+}
+
+
+/***********************  БЛОКИ ФОТОГРАФИЙ И ОПИСАНИЯ **************/
+main section:nth-child(1) h3 {
+display: block;
+background-color: #ddddc4; 
+text-align: center;
+color: #3434bc;  
+text-shadow: 1px 2px 4px #5faf32;    
+letter-spacing: 5px;  
+}
+
+
+
+/*****************   PORTFOLIO *****/
+main h2 {
+display: block;
+margin: 10px auto;  
+/*! background-color: yellow; */
+text-shadow: 1px 6px 14px #401a42;  
+text-align: center;  
+color: #a06b6b;
+}
+
+
+/******* Все секции в FLEX ****/
+main section {
+/*! background-color: blue; */  
+display: flex;
+flex-direction: row;
+justify-content: center;  
+gap: 10px;
+height: 200px;  
+} 
+
+
+
+
+
+/*************** БЛОК  с ВИДЕО *******/
+main  p {
+/*! background-color: red; */
+width: 200px;
+color: #3a1010;
+text-align: center; 
+
+}
+main section article h3::first-letter {
+    font-family: "Times New Roman", Times, serif; /* Гарнитура шрифта первой буквы */
+    font-size: 1.4em; /* Размер шрифта первого символа */
+    color: blueviolet; /* Красный цвет текста */
+   }
+
+/************  FOTO   *******/
+main img {
+height: 100px; 
+border-radius: 10px;  
+filter:  grayscale(60%)   
+}
+
+main  img:hover {
+
+border-radius: 10px;
+border: 1px solid black;   
+filter: contrast(110%) brightness(110%);  
+transform: scale(0.9); 
+transform: translate(8px);   
+}
+/*******************  FOOTER **************/
+footer {
+display: flex;
+flex-direction: column;
+justify-content: space-between;  
+text-align: center; 
+background-color: #340808;
+color: #ded1d1;  
+}
+
+footer section:first-child {
+
+
+}
+
+footer li {
+ margin: 0 30px; 
+ display: block;
+ text-align: center; 
+}
+
+footer section:last-child {
+border-top: 2px solid white;
+ 
+}

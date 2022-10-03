@@ -1,0 +1,186 @@
+/***********************************************************
+АДАПТАЦИЯ КАТАЛОГА ПОУПУЛЯРНЫХ ТОВАРОВ FLEX BOX CARD CONTAINER
+************************************************************/
+
+@media screen and (max-width: 1280px) {
+    header p.container {
+ padding: 0;       
+        
+        
+    }
+    .main_catalog .container {
+
+   /*! background: linear-gradient(0deg, rgba(247,249,242,0.7455182756696428) 0%, rgba(195,232,208,1) 42%, rgba(233,204,142,1) 83%); *//*! background-color: yellow; */ 
+   justify-content: center;
+  
+  /*background-color: red; */
+  width: 100%;
+    
+    }
+/* Слайдер  адаптация кружков *****/   
+ .slider_points {
+top: 420px;  
+left:0px;
+width: 100%;    
+}   
+ aside.catmenu {
+
+position: absolute;
+left: -1000px;
+    }  
+/***** Выравнивание по центру каталога товаров *****/
+main section.catalog article {
+margin: auto;
+ }
+ .item-desk {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+width: 100%;
+}   
+
+section.catalog    h3 {
+font-size: 1em;
+
+ }
+    footer {
+font-size: 0.8em;
+    }
+/******************************************
+    PAYPAL.HTML
+*******************************************/
+    
+}
+
+
+/**********************************************
+          950 PX
+Index.html Header Адаптация меню 
+************************************************/
+
+@media screen and (max-width:950px) {
+/******  ОТСТУП H3 ОТ SLIDER */
+.main_catalog {
+padding: 30px 0;   
+}
+    header section.img {
+      height: 15vw;  
+      
+    }    
+/***** Каталог товаров *****/   
+
+header  section p.container {
+font-size: 14px;
+line-height: 16px;
+display: flex;
+flex-direction: column;
+ justify-content: center;
+ margin-bottom: 5px;
+     }
+
+/*********** Строка поика в HEDAER *******/
+header section.mainhead {
+margin: auto;
+    }
+header .searschform {
+width: 400px;
+height: 12px;
+margin: auto;
+/*background-color: red; */
+    }
+/**************  FOOTER ******/
+   footer section div.container nav.footermenu ul {
+margin: 5px auto; /* Отступы сверху и снизу и центрирование блоков меню */
+width: 300px;
+/*background-color: red; */
+justify-content: center;
+    }     
+/**************************************************
+       810PX
+*************************************************/
+    
+@media screen and (max-width: 810px) {
+/*********** HEADER *****/
+    
+
+    
+    
+   .main_catalog .container  {
+    /* background: linear-gradient(0deg, rgba(247,249,242,0.7455182756696428) 0%, rgba(215,201,163,1) 42%, rgba(233,204,142,1) 83%); */
+     justify-content: center;
+   
+    
+    }
+   
+.slider button {
+ top: 90px;    
+}
+
+.slider_points {
+top: 420px;  
+left:0px;
+width: 100%;    
+}
+
+/***************  Кружочки ***********/
+.slider_points span {
+	flex: none;
+   	height: 10px;
+    width: 10px;
+    
+}
+
+}
+
+
+/****************************************************
+         MAIN  Адаптация SLider
+*****************************************************/
+@media screen and (max-width:750px) {
+
+.slider .container,
+.slider_desk,
+.slider_block {
+ width: 400px;
+ height: 200px;
+}
+
+.slider_block img {
+ width: 400px;
+ height: 200px;   
+    }    
+.slider_points {
+
+top: 220px;  
+left:0px;
+width: 100%;    
+}  
+    
+/************  HEADER KEY MENU *******/
+
+ 
+
+    
+header section nav {
+/*background-color: red; */ 
+margin: 0 auto;
+display: flex;
+flex-direction: column;
+flex-wrap: wrap;    
+gap:1px;
+    }  
+    
+header section nav.container a {
+font-size: 12px; 
+padding: 0px 3px;
+    
+ /*********************************/   
+}
+/*******************  FOOTER ********/
+
+
+}
+
+
+
+

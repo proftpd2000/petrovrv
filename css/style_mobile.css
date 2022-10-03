@@ -1,0 +1,73 @@
+@media screen and (max-width: 390px) {
+
+  body {
+font-size: 0.8em;   
+  }  
+
+footer {
+ background-color: #58584b;
+}  
+/*********************************** MAIN *******************/
+  main {
+/* background-color: blue; */
+ margin-top: 60px; /* Сдвиг вниз */
+ 
+  }
+  main section article{
+  margin: 0px;
+  padding: 0px;
+  }  
+  
+ main section {
+margin: 0px;
+ padding: 0px;
+ 
+  }  
+  
+  main section:nth-child(2n+1) {
+    width:200px;
+  }
+  main section article:nth-child(3) {
+
+  }
+  
+/*********** FOOTER ***************/
+.footer_link_top  {
+display: flex;
+justify-content: column;
+flex-wrap: wrap;
+  }
+/*********************************************
+  PAYPAL.HTML
+*******************************************/  
+div.card_1 iframe {
+width: 180px;
+  }
+  
+  
+/*********************************************
+  Contact.HTML
+*******************************************/
+  main.map section.map:nth-child(1) {
+  margin-top: 40px;
+  height: 100vh;
+    
+  }
+
+ main.map section.map:nth-child(1) div{
+ margin:5px auto;
+ 
+ }  
+  
+main.map section.map:nth-child(1) div img.map {
+  width: 200px;
+  height: 100px;
+  }  
+ 
+ main.map section.map div li {
+ font-size: 0.8em;
+ margin: 3px;
+ 
+  }
+
+}

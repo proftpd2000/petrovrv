@@ -1,0 +1,25 @@
+/**********************************************
+          Index.html Header Адаптация меню 
+************************************************/
+
+@media screen and (max-width:950px) {
+
+nav.topmenu {
+width: 100vw;
+font-size: 14px;
+margin: 0px;
+padding: 1px; 
+display: flex;
+flex-direction: column;
+flex-wrap: wrap;
+
+    }
+.searschform {
+ width: 400px;
+    }
+    
+header  p.container {
+text-align: center;
+padding 0;
+    }
+}
